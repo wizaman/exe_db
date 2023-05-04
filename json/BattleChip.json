@@ -1,0 +1,6696 @@
+[
+  {
+    "ID": "BCS001",
+    "SortId": 10010001,
+    "Class": "Standard",
+    "No": 1,
+    "Version": "",
+    "Name": "キャノン",
+    "Attribute": "Normal",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 6,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "B",
+      "C",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS002",
+    "SortId": 10020002,
+    "Class": "Standard",
+    "No": 2,
+    "Version": "",
+    "Name": "ハイキャノン",
+    "Attribute": "Normal",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "L",
+      "M",
+      "N",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS003",
+    "SortId": 10030003,
+    "Class": "Standard",
+    "No": 3,
+    "Version": "",
+    "Name": "メガキャノン",
+    "Attribute": "Normal",
+    "Power": 180,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "R",
+      "S",
+      "T",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS004",
+    "SortId": 10040004,
+    "Class": "Standard",
+    "No": 4,
+    "Version": "",
+    "Name": "エアシュート",
+    "Attribute": "Normal",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Blow"
+    ],
+    "Capacity": 4,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS005",
+    "SortId": 10050005,
+    "Class": "Standard",
+    "No": 5,
+    "Version": "",
+    "Name": "バルカン1",
+    "Attribute": "Normal",
+    "Power": 10,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 5,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "B",
+      "D",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS006",
+    "SortId": 10060006,
+    "Class": "Standard",
+    "No": 6,
+    "Version": "",
+    "Name": "バルカン2",
+    "Attribute": "Normal",
+    "Power": 15,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 18,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "D",
+      "F",
+      "L"
+    ]
+  },
+  {
+    "ID": "BCS007",
+    "SortId": 10070007,
+    "Class": "Standard",
+    "No": 7,
+    "Version": "",
+    "Name": "バルカン3",
+    "Attribute": "Normal",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "G",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS008",
+    "SortId": 10080008,
+    "Class": "Standard",
+    "No": 8,
+    "Version": "",
+    "Name": "スーパーバルカン",
+    "Attribute": "Normal",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 75,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS009",
+    "SortId": 10090009,
+    "Class": "Standard",
+    "No": 9,
+    "Version": "",
+    "Name": "スプレッドガン1",
+    "Attribute": "Normal",
+    "Power": 30,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 10,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "L",
+      "M",
+      "*",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS010",
+    "SortId": 10100010,
+    "Class": "Standard",
+    "No": 10,
+    "Version": "",
+    "Name": "スプレッドガン2",
+    "Attribute": "Normal",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 18,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "A",
+      "B",
+      "C",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS011",
+    "SortId": 10110011,
+    "Class": "Standard",
+    "No": 11,
+    "Version": "",
+    "Name": "スプレッドガン3",
+    "Attribute": "Normal",
+    "Power": 90,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 26,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "Q",
+      "R",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS012",
+    "SortId": 10120012,
+    "Class": "Standard",
+    "No": 12,
+    "Version": "",
+    "Name": "センシャホウ1",
+    "Attribute": "Normal",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Blow",
+      "Invisible",
+      "AntiGround",
+      "PanelCrack"
+    ],
+    "Capacity": 17,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "G",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS013",
+    "SortId": 10130013,
+    "Class": "Standard",
+    "No": 13,
+    "Version": "",
+    "Name": "センシャホウ2",
+    "Attribute": "Normal",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Blow",
+      "Invisible",
+      "AntiGround",
+      "PanelCrack"
+    ],
+    "Capacity": 28,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "L",
+      "S",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS014",
+    "SortId": 10140014,
+    "Class": "Standard",
+    "No": 14,
+    "Version": "",
+    "Name": "センシャホウ3",
+    "Attribute": "Normal",
+    "Power": 200,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Blow",
+      "Invisible",
+      "AntiGround",
+      "PanelCrack"
+    ],
+    "Capacity": 39,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "M",
+      "P"
+    ]
+  },
+  {
+    "ID": "BCS015",
+    "SortId": 10150015,
+    "Class": "Standard",
+    "No": 15,
+    "Version": "",
+    "Name": "ガンデルソル1",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Break",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 15,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "M",
+      "T",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS016",
+    "SortId": 10160016,
+    "Class": "Standard",
+    "No": 16,
+    "Version": "",
+    "Name": "ガンデルソル2",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Break",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "E",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS017",
+    "SortId": 10170017,
+    "Class": "Standard",
+    "No": 17,
+    "Version": "",
+    "Name": "ガンデルソル3",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Break",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "N",
+      "Q",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS018",
+    "SortId": 10180018,
+    "Class": "Standard",
+    "No": 18,
+    "Version": "",
+    "Name": "ヨーヨー",
+    "Attribute": "Normal",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Sword"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "L",
+      "M",
+      "*",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS019",
+    "SortId": 10190019,
+    "Class": "Standard",
+    "No": 19,
+    "Version": "",
+    "Name": "ヘルズバーナー1",
+    "Attribute": "Fire",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround",
+      "PanelCrack"
+    ],
+    "Capacity": 8,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "F",
+      "G",
+      "H",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS020",
+    "SortId": 10200020,
+    "Class": "Standard",
+    "No": 20,
+    "Version": "",
+    "Name": "ヘルズバーナー2",
+    "Attribute": "Fire",
+    "Power": 110,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround",
+      "PanelCrack"
+    ],
+    "Capacity": 21,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "S",
+      "U",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS021",
+    "SortId": 10210021,
+    "Class": "Standard",
+    "No": 21,
+    "Version": "",
+    "Name": "ヘルズバーナー3",
+    "Attribute": "Fire",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround",
+      "PanelCrack"
+    ],
+    "Capacity": 34,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "ID": "BCS022",
+    "SortId": 10220022,
+    "Class": "Standard",
+    "No": 22,
+    "Version": "",
+    "Name": "ワイドショット",
+    "Attribute": "Water",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 34,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "P",
+      "R",
+      "Q"
+    ]
+  },
+  {
+    "ID": "BCS023",
+    "SortId": 10230023,
+    "Class": "Standard",
+    "No": 23,
+    "Version": "",
+    "Name": "トレインアロー1",
+    "Attribute": "Water",
+    "Power": 30,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "F",
+      "K"
+    ]
+  },
+  {
+    "ID": "BCS024",
+    "SortId": 10240024,
+    "Class": "Standard",
+    "No": 24,
+    "Version": "",
+    "Name": "トレインアロー2",
+    "Attribute": "Water",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 36,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "G",
+      "M",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS025",
+    "SortId": 10250025,
+    "Class": "Standard",
+    "No": 25,
+    "Version": "",
+    "Name": "トレインアロー3",
+    "Attribute": "Water",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "M",
+      "S",
+      "Y"
+    ]
+  },
+  {
+    "ID": "BCS026",
+    "SortId": 10260026,
+    "Class": "Standard",
+    "No": 26,
+    "Version": "",
+    "Name": "バブルスター1",
+    "Attribute": "Water",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Bubble"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "B",
+      "E",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS027",
+    "SortId": 10270027,
+    "Class": "Standard",
+    "No": 27,
+    "Version": "",
+    "Name": "バブルスター2",
+    "Attribute": "Water",
+    "Power": 80,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Bubble"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "L",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS028",
+    "SortId": 10280028,
+    "Class": "Standard",
+    "No": 28,
+    "Version": "",
+    "Name": "バブルスター3",
+    "Attribute": "Water",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Bubble"
+    ],
+    "Capacity": 46,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "S",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS029",
+    "SortId": 10290029,
+    "Class": "Standard",
+    "No": 29,
+    "Version": "",
+    "Name": "サンダーボール",
+    "Attribute": "Elec",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Paralysis"
+    ],
+    "Capacity": 7,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "B",
+      "S",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS030",
+    "SortId": 10300030,
+    "Class": "Standard",
+    "No": 30,
+    "Version": "",
+    "Name": "ドールサンダー1",
+    "Attribute": "Elec",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "E",
+      "Q"
+    ]
+  },
+  {
+    "ID": "BCS031",
+    "SortId": 10310031,
+    "Class": "Standard",
+    "No": 31,
+    "Version": "",
+    "Name": "ドールサンダー2",
+    "Attribute": "Elec",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 31,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "L",
+      "P"
+    ]
+  },
+  {
+    "ID": "BCS032",
+    "SortId": 10320032,
+    "Class": "Standard",
+    "No": 32,
+    "Version": "",
+    "Name": "ドールサンダー3",
+    "Attribute": "Elec",
+    "Power": 180,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "R",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS033",
+    "SortId": 10330033,
+    "Class": "Standard",
+    "No": 33,
+    "Version": "",
+    "Name": "エレキパルス1",
+    "Attribute": "Elec",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "AntiInvisible",
+      "Paralysis"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "J",
+      "L",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS034",
+    "SortId": 10340034,
+    "Class": "Standard",
+    "No": 34,
+    "Version": "",
+    "Name": "エレキパルス2",
+    "Attribute": "Elec",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "AntiInvisible",
+      "Paralysis"
+    ],
+    "Capacity": 36,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "A",
+      "E",
+      "J"
+    ]
+  },
+  {
+    "ID": "BCS035",
+    "SortId": 10350035,
+    "Class": "Standard",
+    "No": 35,
+    "Version": "",
+    "Name": "エレキパルス3",
+    "Attribute": "Elec",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "AntiInvisible",
+      "Paralysis"
+    ],
+    "Capacity": 40,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "S",
+      "J"
+    ]
+  },
+  {
+    "ID": "BCS036",
+    "SortId": 10360036,
+    "Class": "Standard",
+    "No": 36,
+    "Version": "",
+    "Name": "コーンショット1",
+    "Attribute": "Wood",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 14,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "J",
+      "K",
+      "L"
+    ]
+  },
+  {
+    "ID": "BCS037",
+    "SortId": 10370037,
+    "Class": "Standard",
+    "No": 37,
+    "Version": "",
+    "Name": "コーンショット2",
+    "Attribute": "Wood",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 26,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "E",
+      "D"
+    ]
+  },
+  {
+    "ID": "BCS038",
+    "SortId": 10380038,
+    "Class": "Standard",
+    "No": 38,
+    "Version": "",
+    "Name": "コーンショット3",
+    "Attribute": "Wood",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "P",
+      "Q",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS039",
+    "SortId": 10390039,
+    "Class": "Standard",
+    "No": 39,
+    "Version": "",
+    "Name": "リスキーハニー1",
+    "Attribute": "Wood",
+    "Power": 10,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 21,
+    "Limit": 4,
+    "Rarity": 1,
+    "CodeList": [
+      "B",
+      "G",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS040",
+    "SortId": 10400040,
+    "Class": "Standard",
+    "No": 40,
+    "Version": "",
+    "Name": "リスキーハニー2",
+    "Attribute": "Wood",
+    "Power": 15,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 28,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "R",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS041",
+    "SortId": 10410041,
+    "Class": "Standard",
+    "No": 41,
+    "Version": "",
+    "Name": "リスキーハニー3",
+    "Attribute": "Wood",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 35,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "D",
+      "M"
+    ]
+  },
+  {
+    "ID": "BCS042",
+    "SortId": 10420042,
+    "Class": "Standard",
+    "No": 42,
+    "Version": "",
+    "Name": "ローリングログ1",
+    "Attribute": "Wood",
+    "Power": 50,
+    "HP": 20,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 14,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "I",
+      "P",
+      "K"
+    ]
+  },
+  {
+    "ID": "BCS043",
+    "SortId": 10430043,
+    "Class": "Standard",
+    "No": 43,
+    "Version": "",
+    "Name": "ローリングログ2",
+    "Attribute": "Wood",
+    "Power": 70,
+    "HP": 20,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 26,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "E",
+      "Q",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS044",
+    "SortId": 10440044,
+    "Class": "Standard",
+    "No": 44,
+    "Version": "",
+    "Name": "ローリングログ3",
+    "Attribute": "Wood",
+    "Power": 90,
+    "HP": 20,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "F",
+      "W",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS045",
+    "SortId": 10450045,
+    "Class": "Standard",
+    "No": 45,
+    "Version": "",
+    "Name": "アイアンシェル1",
+    "Attribute": "Break",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 13,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "J",
+      "K",
+      "L"
+    ]
+  },
+  {
+    "ID": "BCS046",
+    "SortId": 10460046,
+    "Class": "Standard",
+    "No": 46,
+    "Version": "",
+    "Name": "アイアンシェル2",
+    "Attribute": "Break",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 20,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "ID": "BCS047",
+    "SortId": 10470047,
+    "Class": "Standard",
+    "No": 47,
+    "Version": "",
+    "Name": "アイアンシェル3",
+    "Attribute": "Break",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 27,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "L",
+      "M",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS048",
+    "SortId": 10480048,
+    "Class": "Standard",
+    "No": 48,
+    "Version": "",
+    "Name": "オーラヘッド1",
+    "Attribute": "Break",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 25,
+    "Limit": 4,
+    "Rarity": 1,
+    "CodeList": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "ID": "BCS049",
+    "SortId": 10490049,
+    "Class": "Standard",
+    "No": 49,
+    "Version": "",
+    "Name": "オーラヘッド2",
+    "Attribute": "Break",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 33,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "ID": "BCS050",
+    "SortId": 10500050,
+    "Class": "Standard",
+    "No": 50,
+    "Version": "",
+    "Name": "オーラヘッド3",
+    "Attribute": "Break",
+    "Power": 170,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 39,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "ID": "BCS051",
+    "SortId": 10510051,
+    "Class": "Standard",
+    "No": 51,
+    "Version": "",
+    "Name": "エアホッケー",
+    "Attribute": "Break",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Break"
+    ],
+    "Capacity": 19,
+    "Limit": 5,
+    "Rarity": 3,
+    "CodeList": [
+      "L",
+      "M",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS052",
+    "SortId": 10520052,
+    "Class": "Standard",
+    "No": 52,
+    "Version": "",
+    "Name": "ドリルアーム",
+    "Attribute": "Break",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Blow",
+      "Break"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "M",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS053",
+    "SortId": 10530053,
+    "Class": "Standard",
+    "No": 53,
+    "Version": "",
+    "Name": "トルネード",
+    "Attribute": "Wind",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Break",
+      "PanelNormal"
+    ],
+    "Capacity": 16,
+    "Limit": 5,
+    "Rarity": 3,
+    "CodeList": [
+      "L",
+      "R",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS054",
+    "SortId": 10540054,
+    "Class": "Standard",
+    "No": 54,
+    "Version": "",
+    "Name": "ノイズストーム",
+    "Attribute": "Wind",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "S",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS055",
+    "SortId": 10550055,
+    "Class": "Standard",
+    "No": 55,
+    "Version": "",
+    "Name": "マシンガン1",
+    "Attribute": "Cursor",
+    "Power": 30,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "AntiGround"
+    ],
+    "Capacity": 12,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "R",
+      "T",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS056",
+    "SortId": 10560056,
+    "Class": "Standard",
+    "No": 56,
+    "Version": "",
+    "Name": "マシンガン2",
+    "Attribute": "Cursor",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "AntiGround"
+    ],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "E",
+      "G",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS057",
+    "SortId": 10570057,
+    "Class": "Standard",
+    "No": 57,
+    "Version": "",
+    "Name": "マシンガン3",
+    "Attribute": "Cursor",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "AntiGround"
+    ],
+    "Capacity": 36,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "F",
+      "M"
+    ]
+  },
+  {
+    "ID": "BCS058",
+    "SortId": 10580058,
+    "Class": "Standard",
+    "No": 58,
+    "Version": "",
+    "Name": "ミニボム",
+    "Attribute": "Normal",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "AntiGround"
+    ],
+    "Capacity": 6,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "B",
+      "L",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS059",
+    "SortId": 10590059,
+    "Class": "Standard",
+    "No": 59,
+    "Version": "",
+    "Name": "ビッグボム",
+    "Attribute": "Normal",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "O",
+      "P",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS060",
+    "SortId": 10600060,
+    "Class": "Standard",
+    "No": 60,
+    "Version": "",
+    "Name": "エナジーボム",
+    "Attribute": "Normal",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 11,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "K",
+      "*",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS061",
+    "SortId": 10610061,
+    "Class": "Standard",
+    "No": 61,
+    "Version": "",
+    "Name": "メガエナジーボム",
+    "Attribute": "Normal",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 27,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "M",
+      "O",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS062",
+    "SortId": 10620062,
+    "Class": "Standard",
+    "No": 62,
+    "Version": "",
+    "Name": "フラッシュボム1",
+    "Attribute": "Normal",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "AntiInvisible",
+      "AntiGround",
+      "Paralysis"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "J",
+      "L",
+      "Q",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS063",
+    "SortId": 10630063,
+    "Class": "Standard",
+    "No": 63,
+    "Version": "",
+    "Name": "フラッシュボム2",
+    "Attribute": "Normal",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "AntiInvisible",
+      "AntiGround",
+      "Paralysis"
+    ],
+    "Capacity": 34,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "G",
+      "K",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS064",
+    "SortId": 10640064,
+    "Class": "Standard",
+    "No": 64,
+    "Version": "",
+    "Name": "フラッシュボム3",
+    "Attribute": "Normal",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "AntiInvisible",
+      "AntiGround",
+      "Paralysis"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS065",
+    "SortId": 10650065,
+    "Class": "Standard",
+    "No": 65,
+    "Version": "",
+    "Name": "ブラックボム",
+    "Attribute": "Fire",
+    "Power": 250,
+    "HP": 100,
+    "Lifetime": 100,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break",
+      "AntiGround"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "B",
+      "F",
+      "O"
+    ]
+  },
+  {
+    "ID": "BCS066",
+    "SortId": 10660066,
+    "Class": "Standard",
+    "No": 66,
+    "Version": "",
+    "Name": "バグボム",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "AntiGround",
+      "Confusion",
+      "Bug"
+    ],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "S",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS067",
+    "SortId": 10670067,
+    "Class": "Standard",
+    "No": 67,
+    "Version": "",
+    "Name": "クサムラシード",
+    "Attribute": "Wood",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 19,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "A",
+      "F",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS068",
+    "SortId": 10680068,
+    "Class": "Standard",
+    "No": 68,
+    "Version": "",
+    "Name": "アイスシード",
+    "Attribute": "Water",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelIce"
+    ],
+    "Capacity": 31,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "A",
+      "L",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS069",
+    "SortId": 10690069,
+    "Class": "Standard",
+    "No": 69,
+    "Version": "",
+    "Name": "ポイズンシード",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelPoison"
+    ],
+    "Capacity": 37,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "N",
+      "P",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS070",
+    "SortId": 10700070,
+    "Class": "Standard",
+    "No": 70,
+    "Version": "",
+    "Name": "ソード",
+    "Attribute": "Sword",
+    "Power": 80,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 8,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "H",
+      "L",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS071",
+    "SortId": 10710071,
+    "Class": "Standard",
+    "No": 71,
+    "Version": "",
+    "Name": "ワイドソード",
+    "Attribute": "Sword",
+    "Power": 80,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 12,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "H",
+      "L",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS072",
+    "SortId": 10720072,
+    "Class": "Standard",
+    "No": 72,
+    "Version": "",
+    "Name": "ロングソード",
+    "Attribute": "Sword",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 25,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "L",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS073",
+    "SortId": 10730073,
+    "Class": "Standard",
+    "No": 73,
+    "Version": "",
+    "Name": "ワイドブレード",
+    "Attribute": "Sword",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "B",
+      "R",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS074",
+    "SortId": 10740074,
+    "Class": "Standard",
+    "No": 74,
+    "Version": "",
+    "Name": "ロングブレード",
+    "Attribute": "Sword",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "B",
+      "M",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS075",
+    "SortId": 10750075,
+    "Class": "Standard",
+    "No": 75,
+    "Version": "",
+    "Name": "フレイムソード",
+    "Attribute": "Fire",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "F",
+      "O",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS076",
+    "SortId": 10760076,
+    "Class": "Standard",
+    "No": 76,
+    "Version": "",
+    "Name": "アクアソード",
+    "Attribute": "Water",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "I",
+      "Y"
+    ]
+  },
+  {
+    "ID": "BCS077",
+    "SortId": 10770077,
+    "Class": "Standard",
+    "No": 77,
+    "Version": "",
+    "Name": "エレキソード",
+    "Attribute": "Elec",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Sword",
+      "Paralysis"
+    ],
+    "Capacity": 35,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "E",
+      "K",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS078",
+    "SortId": 10780078,
+    "Class": "Standard",
+    "No": 78,
+    "Version": "",
+    "Name": "バンブーソード",
+    "Attribute": "Wood",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Sword"
+    ],
+    "Capacity": 34,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "S",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS079",
+    "SortId": 10790079,
+    "Class": "Standard",
+    "No": 79,
+    "Version": "",
+    "Name": "フウジンラケット",
+    "Attribute": "Wind",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Blow"
+    ],
+    "Capacity": 19,
+    "Limit": 5,
+    "Rarity": 3,
+    "CodeList": [
+      "F",
+      "J",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS080",
+    "SortId": 10800080,
+    "Class": "Standard",
+    "No": 80,
+    "Version": "",
+    "Name": "フミコミザン",
+    "Attribute": "Sword",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 28,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "L",
+      "P"
+    ]
+  },
+  {
+    "ID": "BCS081",
+    "SortId": 10810081,
+    "Class": "Standard",
+    "No": 81,
+    "Version": "",
+    "Name": "バリアブルソード",
+    "Attribute": "Sword",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 28,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "K",
+      "V",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS082",
+    "SortId": 10820082,
+    "Class": "Standard",
+    "No": 82,
+    "Version": "",
+    "Name": "ネオバリアブル",
+    "Attribute": "Sword",
+    "Power": 220,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 52,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS083",
+    "SortId": 10830083,
+    "Class": "Standard",
+    "No": 83,
+    "Version": "",
+    "Name": "エンゲツクナイ",
+    "Attribute": "Sword",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword",
+      "Bug"
+    ],
+    "Capacity": 35,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "M",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS084",
+    "SortId": 10840084,
+    "Class": "Standard",
+    "No": 84,
+    "Version": "",
+    "Name": "ムラマサブレード",
+    "Attribute": "Sword",
+    "Power": -1,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 77,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "M"
+    ]
+  },
+  {
+    "ID": "BCS085",
+    "SortId": 10850085,
+    "Class": "Standard",
+    "No": 85,
+    "Version": "",
+    "Name": "マシーンソード",
+    "Attribute": "Normal",
+    "Power": 200,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 37,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "H",
+      "L",
+      "Q"
+    ]
+  },
+  {
+    "ID": "BCS086",
+    "SortId": 10860086,
+    "Class": "Standard",
+    "No": 86,
+    "Version": "",
+    "Name": "エレメントソード",
+    "Attribute": "Normal",
+    "Power": 220,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 43,
+    "Limit": 2,
+    "Rarity": 2,
+    "CodeList": [
+      "J",
+      "M",
+      "U"
+    ]
+  },
+  {
+    "ID": "BCS087",
+    "SortId": 10870087,
+    "Class": "Standard",
+    "No": 87,
+    "Version": "",
+    "Name": "アサシンソード",
+    "Attribute": "Normal",
+    "Power": 240,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 50,
+    "Limit": 1,
+    "Rarity": 3,
+    "CodeList": [
+      "N",
+      "Y",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS088",
+    "SortId": 10880088,
+    "Class": "Standard",
+    "No": 88,
+    "Version": "",
+    "Name": "クラックシュート",
+    "Attribute": "Normal",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 4,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "T",
+      "G",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS089",
+    "SortId": 10890089,
+    "Class": "Standard",
+    "No": 89,
+    "Version": "",
+    "Name": "ダブルシュート",
+    "Attribute": "Normal",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 8,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "C",
+      "R",
+      "U",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS090",
+    "SortId": 10900090,
+    "Class": "Standard",
+    "No": 90,
+    "Version": "",
+    "Name": "トリプルシュート",
+    "Attribute": "Normal",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 12,
+    "Limit": 5,
+    "Rarity": 3,
+    "CodeList": [
+      "J",
+      "V",
+      "L",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS091",
+    "SortId": 10910091,
+    "Class": "Standard",
+    "No": 91,
+    "Version": "",
+    "Name": "リフレクメット1",
+    "Attribute": "Normal",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 7,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "P",
+      "C",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS092",
+    "SortId": 10920092,
+    "Class": "Standard",
+    "No": 92,
+    "Version": "",
+    "Name": "リフレクメット2",
+    "Attribute": "Normal",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 16,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "B",
+      "G",
+      "Y",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS093",
+    "SortId": 10930093,
+    "Class": "Standard",
+    "No": 93,
+    "Version": "",
+    "Name": "リフレクメット3",
+    "Attribute": "Normal",
+    "Power": 200,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 25,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "E",
+      "F",
+      "O",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS094",
+    "SortId": 10940094,
+    "Class": "Standard",
+    "No": 94,
+    "Version": "",
+    "Name": "ウェーブアーム1",
+    "Attribute": "Normal",
+    "Power": 80,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 15,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "E",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "ID": "BCS095",
+    "SortId": 10950095,
+    "Class": "Standard",
+    "No": 95,
+    "Version": "",
+    "Name": "ウェーブアーム2",
+    "Attribute": "Normal",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 22,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "L",
+      "M",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS096",
+    "SortId": 10960096,
+    "Class": "Standard",
+    "No": 96,
+    "Version": "",
+    "Name": "ウェーブアーム3",
+    "Attribute": "Normal",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 29,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "R",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS097",
+    "SortId": 10970097,
+    "Class": "Standard",
+    "No": 97,
+    "Version": "",
+    "Name": "サンドワーム1",
+    "Attribute": "Normal",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "G",
+      "L"
+    ]
+  },
+  {
+    "ID": "BCS098",
+    "SortId": 10980098,
+    "Class": "Standard",
+    "No": 98,
+    "Version": "",
+    "Name": "サンドワーム2",
+    "Attribute": "Normal",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 34,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "B",
+      "R",
+      "Y"
+    ]
+  },
+  {
+    "ID": "BCS099",
+    "SortId": 10990099,
+    "Class": "Standard",
+    "No": 99,
+    "Version": "",
+    "Name": "サンドワーム3",
+    "Attribute": "Normal",
+    "Power": 170,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "J",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS100",
+    "SortId": 11000100,
+    "Class": "Standard",
+    "No": 100,
+    "Version": "",
+    "Name": "サモンブラック1",
+    "Attribute": "Normal",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "E",
+      "I",
+      "P"
+    ]
+  },
+  {
+    "ID": "BCS101",
+    "SortId": 11010101,
+    "Class": "Standard",
+    "No": 101,
+    "Version": "",
+    "Name": "サモンブラック2",
+    "Attribute": "Normal",
+    "Power": 200,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 40,
+    "Limit": 2,
+    "Rarity": 2,
+    "CodeList": [
+      "H",
+      "O",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS102",
+    "SortId": 11020102,
+    "Class": "Standard",
+    "No": 102,
+    "Version": "",
+    "Name": "サモンブラック3",
+    "Attribute": "Normal",
+    "Power": 260,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 46,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "W",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS103",
+    "SortId": 11030103,
+    "Class": "Standard",
+    "No": 103,
+    "Version": "",
+    "Name": "カモンスネーク",
+    "Attribute": "Normal",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 34,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "H",
+      "L",
+      "M"
+    ]
+  },
+  {
+    "ID": "BCS104",
+    "SortId": 11040104,
+    "Class": "Standard",
+    "No": 104,
+    "Version": "",
+    "Name": "ナンバーボール",
+    "Attribute": "Normal",
+    "Power": -1,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 69,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS105",
+    "SortId": 11050105,
+    "Class": "Standard",
+    "No": 105,
+    "Version": "",
+    "Name": "ファイアパンチ1",
+    "Attribute": "Fire",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 12,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "D",
+      "E",
+      "F"
+    ]
+  },
+  {
+    "ID": "BCS106",
+    "SortId": 11060106,
+    "Class": "Standard",
+    "No": 106,
+    "Version": "",
+    "Name": "ファイアパンチ2",
+    "Attribute": "Fire",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 22,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "R",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS107",
+    "SortId": 11070107,
+    "Class": "Standard",
+    "No": 107,
+    "Version": "",
+    "Name": "ファイアパンチ3",
+    "Attribute": "Fire",
+    "Power": 180,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID": "BCS108",
+    "SortId": 11080108,
+    "Class": "Standard",
+    "No": 108,
+    "Version": "",
+    "Name": "バーンスクエア1",
+    "Attribute": "Fire",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 1,
+    "CodeList": [
+      "H",
+      "V",
+      "P"
+    ]
+  },
+  {
+    "ID": "BCS109",
+    "SortId": 11090109,
+    "Class": "Standard",
+    "No": 109,
+    "Version": "",
+    "Name": "バーンスクエア2",
+    "Attribute": "Fire",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "D",
+      "M",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS110",
+    "SortId": 11100110,
+    "Class": "Standard",
+    "No": 110,
+    "Version": "",
+    "Name": "バーンスクエア3",
+    "Attribute": "Fire",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 36,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "E",
+      "Z",
+      "O"
+    ]
+  },
+  {
+    "ID": "BCS111",
+    "SortId": 11110111,
+    "Class": "Standard",
+    "No": 111,
+    "Version": "",
+    "Name": "リュウセイグン",
+    "Attribute": "Fire",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 73,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS112",
+    "SortId": 11120112,
+    "Class": "Standard",
+    "No": 112,
+    "Version": "",
+    "Name": "アクアニードル1",
+    "Attribute": "Water",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 31,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "C",
+      "J",
+      "P"
+    ]
+  },
+  {
+    "ID": "BCS113",
+    "SortId": 11130113,
+    "Class": "Standard",
+    "No": 113,
+    "Version": "",
+    "Name": "アクアニードル2",
+    "Attribute": "Water",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 35,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "F",
+      "K",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS114",
+    "SortId": 11140114,
+    "Class": "Standard",
+    "No": 114,
+    "Version": "",
+    "Name": "アクアニードル3",
+    "Attribute": "Water",
+    "Power": 80,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 39,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "L",
+      "U"
+    ]
+  },
+  {
+    "ID": "BCS115",
+    "SortId": 11150115,
+    "Class": "Standard",
+    "No": 115,
+    "Version": "",
+    "Name": "ブリザードボール",
+    "Attribute": "Water",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 39,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "H",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS116",
+    "SortId": 11160116,
+    "Class": "Standard",
+    "No": 116,
+    "Version": "",
+    "Name": "キラーセンサー1",
+    "Attribute": "Elec",
+    "Power": 100,
+    "HP": 20,
+    "Lifetime": 12,
+    "Event": true,
+    "EffectList": [
+      "Break",
+      "AntiInvisible",
+      "Paralysis"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 1,
+    "CodeList": [
+      "J",
+      "O",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS117",
+    "SortId": 11170117,
+    "Class": "Standard",
+    "No": 117,
+    "Version": "",
+    "Name": "キラーセンサー2",
+    "Attribute": "Elec",
+    "Power": 130,
+    "HP": 30,
+    "Lifetime": 12,
+    "Event": true,
+    "EffectList": [
+      "Break",
+      "AntiInvisible",
+      "Paralysis"
+    ],
+    "Capacity": 35,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "N",
+      "U",
+      "Y"
+    ]
+  },
+  {
+    "ID": "BCS118",
+    "SortId": 11180118,
+    "Class": "Standard",
+    "No": 118,
+    "Version": "",
+    "Name": "キラーセンサー3",
+    "Attribute": "Elec",
+    "Power": 160,
+    "HP": 40,
+    "Lifetime": 12,
+    "Event": true,
+    "EffectList": [
+      "Break",
+      "AntiInvisible",
+      "Paralysis"
+    ],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "I",
+      "Q",
+      "K"
+    ]
+  },
+  {
+    "ID": "BCS119",
+    "SortId": 11190119,
+    "Class": "Standard",
+    "No": 119,
+    "Version": "",
+    "Name": "ブーメラン",
+    "Attribute": "Wood",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 16,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "J",
+      "T",
+      "K"
+    ]
+  },
+  {
+    "ID": "BCS120",
+    "SortId": 11200120,
+    "Class": "Standard",
+    "No": 120,
+    "Version": "",
+    "Name": "ハイブーメラン",
+    "Attribute": "Wood",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 26,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "L",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS121",
+    "SortId": 11210121,
+    "Class": "Standard",
+    "No": 121,
+    "Version": "",
+    "Name": "メガブーメラン",
+    "Attribute": "Wood",
+    "Power": 170,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 36,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "I",
+      "W",
+      "M"
+    ]
+  },
+  {
+    "ID": "BCS122",
+    "SortId": 11220122,
+    "Class": "Standard",
+    "No": 122,
+    "Version": "",
+    "Name": "バンブーランス",
+    "Attribute": "Wood",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Blow"
+    ],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 4,
+    "CodeList": [
+      "A",
+      "R",
+      "W",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS123",
+    "SortId": 11230123,
+    "Class": "Standard",
+    "No": 123,
+    "Version": "",
+    "Name": "ヒートドラゴン",
+    "Attribute": "Fire",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 40,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "R",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS124",
+    "SortId": 11240124,
+    "Class": "Standard",
+    "No": 124,
+    "Version": "",
+    "Name": "エレキドラゴン",
+    "Attribute": "Elec",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "PanelCrack"
+    ],
+    "Capacity": 40,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "L",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS125",
+    "SortId": 11250125,
+    "Class": "Standard",
+    "No": 125,
+    "Version": "",
+    "Name": "アクアドラゴン",
+    "Attribute": "Water",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "PanelIce"
+    ],
+    "Capacity": 44,
+    "Limit": 2,
+    "Rarity": 4,
+    "CodeList": [
+      "H",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS126",
+    "SortId": 11260126,
+    "Class": "Standard",
+    "No": 126,
+    "Version": "",
+    "Name": "ウッドドラゴン",
+    "Attribute": "Wood",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 48,
+    "Limit": 2,
+    "Rarity": 4,
+    "CodeList": [
+      "G",
+      "T",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS127",
+    "SortId": 11270127,
+    "Class": "Standard",
+    "No": 127,
+    "Version": "",
+    "Name": "ゴーレムパンチ1",
+    "Attribute": "Break",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 17,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "I",
+      "K",
+      "Y"
+    ]
+  },
+  {
+    "ID": "BCS128",
+    "SortId": 11280128,
+    "Class": "Standard",
+    "No": 128,
+    "Version": "",
+    "Name": "ゴーレムパンチ2",
+    "Attribute": "Break",
+    "Power": 190,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 27,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "D",
+      "P",
+      "U"
+    ]
+  },
+  {
+    "ID": "BCS129",
+    "SortId": 11290129,
+    "Class": "Standard",
+    "No": 129,
+    "Version": "",
+    "Name": "ゴーレムパンチ3",
+    "Attribute": "Break",
+    "Power": 250,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 37,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "M",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS130",
+    "SortId": 11300130,
+    "Class": "Standard",
+    "No": 130,
+    "Version": "",
+    "Name": "ジャスティスワン",
+    "Attribute": "Break",
+    "Power": 220,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 90,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "J"
+    ]
+  },
+  {
+    "ID": "BCS131",
+    "SortId": 11310131,
+    "Class": "Standard",
+    "No": 131,
+    "Version": "",
+    "Name": "エアホイール1",
+    "Attribute": "Wind",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 22,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "F",
+      "G",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS132",
+    "SortId": 11320132,
+    "Class": "Standard",
+    "No": 132,
+    "Version": "",
+    "Name": "エアホイール2",
+    "Attribute": "Wind",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 29,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "L",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS133",
+    "SortId": 11330133,
+    "Class": "Standard",
+    "No": 133,
+    "Version": "",
+    "Name": "エアホイール3",
+    "Attribute": "Wind",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 36,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "N",
+      "O",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS134",
+    "SortId": 11340134,
+    "Class": "Standard",
+    "No": 134,
+    "Version": "",
+    "Name": "トップウ",
+    "Attribute": "Wind",
+    "Power": 0,
+    "HP": 40,
+    "Lifetime": 25,
+    "Event": true,
+    "EffectList": [
+      "Blow"
+    ],
+    "Capacity": 10,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS135",
+    "SortId": 11350135,
+    "Class": "Standard",
+    "No": 135,
+    "Version": "",
+    "Name": "スイコミ",
+    "Attribute": "Wind",
+    "Power": 0,
+    "HP": 40,
+    "Lifetime": 25,
+    "Event": true,
+    "EffectList": [
+      "Blow"
+    ],
+    "Capacity": 10,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS136",
+    "SortId": 11360136,
+    "Class": "Standard",
+    "No": 136,
+    "Version": "",
+    "Name": "マグナム",
+    "Attribute": "Cursor",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround",
+      "PanelHole"
+    ],
+    "Capacity": 31,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "F",
+      "L",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS137",
+    "SortId": 11370137,
+    "Class": "Standard",
+    "No": 137,
+    "Version": "",
+    "Name": "サークルガン",
+    "Attribute": "Cursor",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 35,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "P",
+      "T",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS138",
+    "SortId": 11380138,
+    "Class": "Standard",
+    "No": 138,
+    "Version": "",
+    "Name": "ストーンキューブ",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 200,
+    "Lifetime": 100,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 6,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS139",
+    "SortId": 11390139,
+    "Class": "Standard",
+    "No": 139,
+    "Version": "",
+    "Name": "リトルボイラー1",
+    "Attribute": "Object",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break",
+      "AntiGround"
+    ],
+    "Capacity": 18,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "F",
+      "K",
+      "L"
+    ]
+  },
+  {
+    "ID": "BCS140",
+    "SortId": 11400140,
+    "Class": "Standard",
+    "No": 140,
+    "Version": "",
+    "Name": "リトルボイラー2",
+    "Attribute": "Object",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break",
+      "AntiGround"
+    ],
+    "Capacity": 23,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "E",
+      "M",
+      "V"
+    ]
+  },
+  {
+    "ID": "BCS141",
+    "SortId": 11410141,
+    "Class": "Standard",
+    "No": 141,
+    "Version": "",
+    "Name": "リトルボイラー3",
+    "Attribute": "Object",
+    "Power": 180,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break",
+      "AntiGround"
+    ],
+    "Capacity": 28,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "S",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS142",
+    "SortId": 11420142,
+    "Class": "Standard",
+    "No": 142,
+    "Version": "",
+    "Name": "エアレイド1",
+    "Attribute": "Object",
+    "Power": 10,
+    "HP": 30,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "AntiGround"
+    ],
+    "Capacity": 26,
+    "Limit": 4,
+    "Rarity": 1,
+    "CodeList": [
+      "G",
+      "R",
+      "K"
+    ]
+  },
+  {
+    "ID": "BCS143",
+    "SortId": 11430143,
+    "Class": "Standard",
+    "No": 143,
+    "Version": "",
+    "Name": "エアレイド2",
+    "Attribute": "Object",
+    "Power": 10,
+    "HP": 40,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "AntiGround"
+    ],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "O",
+      "T",
+      "Y"
+    ]
+  },
+  {
+    "ID": "BCS144",
+    "SortId": 11440144,
+    "Class": "Standard",
+    "No": 144,
+    "Version": "",
+    "Name": "エアレイド3",
+    "Attribute": "Object",
+    "Power": 10,
+    "HP": 50,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "AntiGround"
+    ],
+    "Capacity": 39,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "N",
+      "U",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS145",
+    "SortId": 11450145,
+    "Class": "Standard",
+    "No": 145,
+    "Version": "",
+    "Name": "カウントボム1",
+    "Attribute": "Object",
+    "Power": 150,
+    "HP": 50,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 20,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "F",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "ID": "BCS146",
+    "SortId": 11460146,
+    "Class": "Standard",
+    "No": 146,
+    "Version": "",
+    "Name": "カウントボム2",
+    "Attribute": "Object",
+    "Power": 190,
+    "HP": 50,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "ID": "BCS147",
+    "SortId": 11470147,
+    "Class": "Standard",
+    "No": 147,
+    "Version": "",
+    "Name": "カウントボム3",
+    "Attribute": "Object",
+    "Power": 230,
+    "HP": 50,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 37,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "L",
+      "M",
+      "N"
+    ]
+  },
+  {
+    "ID": "BCS148",
+    "SortId": 11480148,
+    "Class": "Standard",
+    "No": 148,
+    "Version": "",
+    "Name": "ステルスマイン",
+    "Attribute": "Object",
+    "Power": 200,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 28,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS149",
+    "SortId": 11490149,
+    "Class": "Standard",
+    "No": 149,
+    "Version": "",
+    "Name": "オウエンカ",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 60,
+    "Lifetime": 40,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 20,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "P",
+      "S",
+      "Z",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS150",
+    "SortId": 11500150,
+    "Class": "Standard",
+    "No": 150,
+    "Version": "",
+    "Name": "ディスコード",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 60,
+    "Lifetime": 40,
+    "Event": true,
+    "EffectList": [
+      "Confusion"
+    ],
+    "Capacity": 20,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "A",
+      "G",
+      "*",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS151",
+    "SortId": 11510151,
+    "Class": "Standard",
+    "No": 151,
+    "Version": "",
+    "Name": "ティンパニー",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 60,
+    "Lifetime": 40,
+    "Event": true,
+    "EffectList": [
+      "Bind"
+    ],
+    "Capacity": 20,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "I",
+      "T",
+      "O",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS152",
+    "SortId": 11520152,
+    "Class": "Standard",
+    "No": 152,
+    "Version": "",
+    "Name": "サイレンス",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 60,
+    "Lifetime": 40,
+    "Event": true,
+    "EffectList": [
+      "Blind"
+    ],
+    "Capacity": 20,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "B",
+      "R",
+      "W",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS153",
+    "SortId": 11530153,
+    "Class": "Standard",
+    "No": 153,
+    "Version": "",
+    "Name": "ワラニンギョウ",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 1,
+    "Lifetime": 7,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiInvisible",
+      "AntiGround",
+      "PanelPoison"
+    ],
+    "Capacity": 39,
+    "Limit": 3,
+    "Rarity": 4,
+    "CodeList": [
+      "F",
+      "N",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS154",
+    "SortId": 11540154,
+    "Class": "Standard",
+    "No": 154,
+    "Version": "",
+    "Name": "オジゾウサン",
+    "Attribute": "Object",
+    "Power": 200,
+    "HP": 1,
+    "Lifetime": 100,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 64,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "O"
+    ]
+  },
+  {
+    "ID": "BCS155",
+    "SortId": 11550155,
+    "Class": "Standard",
+    "No": 155,
+    "Version": "",
+    "Name": "ポイズンアヌビス",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 100,
+    "Lifetime": 50,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 86,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "P"
+    ]
+  },
+  {
+    "ID": "BCS156",
+    "SortId": 11560156,
+    "Class": "Standard",
+    "No": 156,
+    "Version": "",
+    "Name": "リカバリー10",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 4,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "A",
+      "D",
+      "*",
+      "L"
+    ]
+  },
+  {
+    "ID": "BCS157",
+    "SortId": 11570157,
+    "Class": "Standard",
+    "No": 157,
+    "Version": "",
+    "Name": "リカバリー30",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 12,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "E",
+      "L",
+      "Q",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS158",
+    "SortId": 11580158,
+    "Class": "Standard",
+    "No": 158,
+    "Version": "",
+    "Name": "リカバリー50",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 18,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "C",
+      "M",
+      "P",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS159",
+    "SortId": 11590159,
+    "Class": "Standard",
+    "No": 159,
+    "Version": "",
+    "Name": "リカバリー80",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "H",
+      "K",
+      "V",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS160",
+    "SortId": 11600160,
+    "Class": "Standard",
+    "No": 160,
+    "Version": "",
+    "Name": "リカバリー120",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "F",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "ID": "BCS161",
+    "SortId": 11610161,
+    "Class": "Standard",
+    "No": 161,
+    "Version": "",
+    "Name": "リカバリー150",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "J",
+      "M",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS162",
+    "SortId": 11620162,
+    "Class": "Standard",
+    "No": 162,
+    "Version": "",
+    "Name": "リカバリー200",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "I",
+      "Q",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS163",
+    "SortId": 11630163,
+    "Class": "Standard",
+    "No": 163,
+    "Version": "",
+    "Name": "リカバリー300",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 48,
+    "Limit": 2,
+    "Rarity": 4,
+    "CodeList": [
+      "J",
+      "Y",
+      "O"
+    ]
+  },
+  {
+    "ID": "BCS164",
+    "SortId": 11640164,
+    "Class": "Standard",
+    "No": 164,
+    "Version": "",
+    "Name": "パネルスチール",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "AntiGround"
+    ],
+    "Capacity": 6,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS165",
+    "SortId": 11650165,
+    "Class": "Standard",
+    "No": 165,
+    "Version": "",
+    "Name": "エリアスチール",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "AntiGround"
+    ],
+    "Capacity": 8,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "B",
+      "F",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS166",
+    "SortId": 11660166,
+    "Class": "Standard",
+    "No": 166,
+    "Version": "",
+    "Name": "スチールパニシュ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Blow",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "ID": "BCS167",
+    "SortId": 11670167,
+    "Class": "Standard",
+    "No": 167,
+    "Version": "",
+    "Name": "スチールリベンジ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Blow",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 50,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "I",
+      "Q",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS168",
+    "SortId": 11680168,
+    "Class": "Standard",
+    "No": 168,
+    "Version": "",
+    "Name": "パネルリターン",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "PanelNormal"
+    ],
+    "Capacity": 14,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS169",
+    "SortId": 11690169,
+    "Class": "Standard",
+    "No": 169,
+    "Version": "",
+    "Name": "デスマッチ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "PanelHole"
+    ],
+    "Capacity": 47,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "L",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS170",
+    "SortId": 11700170,
+    "Class": "Standard",
+    "No": 170,
+    "Version": "",
+    "Name": "ホーリーパネル",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "PanelHoly"
+    ],
+    "Capacity": 24,
+    "Limit": 4,
+    "Rarity": 2,
+    "CodeList": [
+      "A",
+      "B",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS171",
+    "SortId": 11710171,
+    "Class": "Standard",
+    "No": 171,
+    "Version": "",
+    "Name": "サンクチュアリ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "PanelHoly"
+    ],
+    "Capacity": 62,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS172",
+    "SortId": 11720172,
+    "Class": "Standard",
+    "No": 172,
+    "Version": "",
+    "Name": "カミングロード",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "PanelComing"
+    ],
+    "Capacity": 21,
+    "Limit": 4,
+    "Rarity": 1,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS173",
+    "SortId": 11730173,
+    "Class": "Standard",
+    "No": 173,
+    "Version": "",
+    "Name": "ゴーイングロード",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "PanelGoing"
+    ],
+    "Capacity": 21,
+    "Limit": 4,
+    "Rarity": 1,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS174",
+    "SortId": 11740174,
+    "Class": "Standard",
+    "No": 174,
+    "Version": "",
+    "Name": "ヘビーゲージ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "G",
+      "B",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS175",
+    "SortId": 11750175,
+    "Class": "Standard",
+    "No": 175,
+    "Version": "",
+    "Name": "クイックゲージ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 48,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "E",
+      "M",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS176",
+    "SortId": 11760176,
+    "Class": "Standard",
+    "No": 176,
+    "Version": "",
+    "Name": "フルカスタム",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 50,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS177",
+    "SortId": 11770177,
+    "Class": "Standard",
+    "No": 177,
+    "Version": "",
+    "Name": "バスターアップ",
+    "Attribute": "Number",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 11,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS178",
+    "SortId": 11780178,
+    "Class": "Standard",
+    "No": 178,
+    "Version": "",
+    "Name": "バグシュウセイ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 62,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "K",
+      "P",
+      "*",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS179",
+    "SortId": 11790179,
+    "Class": "Standard",
+    "No": 179,
+    "Version": "",
+    "Name": "インビジブル",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS180",
+    "SortId": 11800180,
+    "Class": "Standard",
+    "No": 180,
+    "Version": "",
+    "Name": "バリア",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 7,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "A",
+      "F",
+      "*",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS181",
+    "SortId": 11810181,
+    "Class": "Standard",
+    "No": 181,
+    "Version": "",
+    "Name": "バリア100",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "O",
+      "Y"
+    ]
+  },
+  {
+    "ID": "BCS182",
+    "SortId": 11820182,
+    "Class": "Standard",
+    "No": 182,
+    "Version": "",
+    "Name": "バリア200",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 52,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "K",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "ID": "BCS183",
+    "SortId": 11830183,
+    "Class": "Standard",
+    "No": 183,
+    "Version": "",
+    "Name": "バブルラップ",
+    "Attribute": "Water",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 58,
+    "Limit": 1,
+    "Rarity": 3,
+    "CodeList": [
+      "I",
+      "Q",
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCS184",
+    "SortId": 11840184,
+    "Class": "Standard",
+    "No": 184,
+    "Version": "",
+    "Name": "ドリームオーラ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 70,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "U"
+    ]
+  },
+  {
+    "ID": "BCS185",
+    "SortId": 11850185,
+    "Class": "Standard",
+    "No": 185,
+    "Version": "",
+    "Name": "マグネコイル",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack"
+    ],
+    "Capacity": 14,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS186",
+    "SortId": 11860186,
+    "Class": "Standard",
+    "No": 186,
+    "Version": "",
+    "Name": "カーネルアーミー",
+    "Attribute": "Normal",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Paralysis"
+    ],
+    "Capacity": 25,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "G",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS187",
+    "SortId": 11870187,
+    "Class": "Standard",
+    "No": 187,
+    "Version": "",
+    "Name": "エレメントラップ",
+    "Attribute": "Normal",
+    "Power": 240,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "U",
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS188",
+    "SortId": 11880188,
+    "Class": "Standard",
+    "No": 188,
+    "Version": "",
+    "Name": "ナビスカウト",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 50,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "F",
+      "L",
+      "*",
+      "T"
+    ]
+  },
+  {
+    "ID": "BCS189",
+    "SortId": 11890189,
+    "Class": "Standard",
+    "No": 189,
+    "Version": "",
+    "Name": "カワリミ",
+    "Attribute": "Normal",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Sword",
+      "AntiGround"
+    ],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "R",
+      "V",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS190",
+    "SortId": 11900190,
+    "Class": "Standard",
+    "No": 190,
+    "Version": "",
+    "Name": "シラハドリ",
+    "Attribute": "Sword",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 33,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "Z",
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS191",
+    "SortId": 11910191,
+    "Class": "Standard",
+    "No": 191,
+    "Version": "",
+    "Name": "バッドメディスン",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "PanelPoison"
+    ],
+    "Capacity": 37,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "V",
+      "F",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS192",
+    "SortId": 11920192,
+    "Class": "Standard",
+    "No": 192,
+    "Version": "",
+    "Name": "ホワイトカプセル",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS193",
+    "SortId": 11930193,
+    "Class": "Standard",
+    "No": 193,
+    "Version": "",
+    "Name": "アンインストール",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 60,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "G",
+      "L",
+      "R"
+    ]
+  },
+  {
+    "ID": "BCS194",
+    "SortId": 11940194,
+    "Class": "Standard",
+    "No": 194,
+    "Version": "",
+    "Name": "コピーダメージ",
+    "Attribute": "Cursor",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 12,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS195",
+    "SortId": 11950195,
+    "Class": "Standard",
+    "No": 195,
+    "Version": "",
+    "Name": "ライフシンクロ",
+    "Attribute": "Cursor",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 12,
+    "Limit": 5,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS196",
+    "SortId": 11960196,
+    "Class": "Standard",
+    "No": 196,
+    "Version": "",
+    "Name": "アタック+10",
+    "Attribute": "Number",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 4,
+    "Limit": 5,
+    "Rarity": 1,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS197",
+    "SortId": 11970197,
+    "Class": "Standard",
+    "No": 197,
+    "Version": "",
+    "Name": "アタック+30",
+    "Attribute": "Number",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 66,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS198",
+    "SortId": 11980198,
+    "Class": "Standard",
+    "No": 198,
+    "Version": "",
+    "Name": "ナビ+20",
+    "Attribute": "Number",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 36,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS199",
+    "SortId": 11990199,
+    "Class": "Standard",
+    "No": 199,
+    "Version": "",
+    "Name": "カラーポイント",
+    "Attribute": "Number",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 31,
+    "Limit": 3,
+    "Rarity": 2,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS200",
+    "SortId": 12000200,
+    "Class": "Standard",
+    "No": 200,
+    "Version": "",
+    "Name": "ダブルポイント",
+    "Attribute": "Number",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 50,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "*"
+    ]
+  },
+  {
+    "ID": "BCS901X",
+    "SortId": 19010901,
+    "Class": "Standard",
+    "No": 901,
+    "Version": "ゲート限定",
+    "Name": "パンチアーム",
+    "Attribute": "Fire",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible"
+    ],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS902X",
+    "SortId": 19020902,
+    "Class": "Standard",
+    "No": 902,
+    "Version": "ゲート限定",
+    "Name": "ニードルアーム",
+    "Attribute": "Water",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS903X",
+    "SortId": 19030903,
+    "Class": "Standard",
+    "No": 903,
+    "Version": "ゲート限定",
+    "Name": "パルスアーム",
+    "Attribute": "Elec",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "AntiInvisible",
+      "Paralysis"
+    ],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS904X",
+    "SortId": 19040904,
+    "Class": "Standard",
+    "No": 904,
+    "Version": "ゲート限定",
+    "Name": "ブーメランアーム",
+    "Attribute": "Wood",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "PanelGreen"
+    ],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS905X",
+    "SortId": 19050905,
+    "Class": "Standard",
+    "No": 905,
+    "Version": "ゲート限定",
+    "Name": "ダークソード",
+    "Attribute": "Sword",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS906X",
+    "SortId": 19060906,
+    "Class": "Standard",
+    "No": 906,
+    "Version": "ゲート限定",
+    "Name": "ダークサンダー",
+    "Attribute": "Elec",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Paralysis"
+    ],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS907X",
+    "SortId": 19070907,
+    "Class": "Standard",
+    "No": 907,
+    "Version": "ゲート限定",
+    "Name": "ダークリカバリー",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS908X",
+    "SortId": 19080908,
+    "Class": "Standard",
+    "No": 908,
+    "Version": "ゲート限定",
+    "Name": "ダークインビジ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCS909X",
+    "SortId": 19090909,
+    "Class": "Standard",
+    "No": 909,
+    "Version": "ゲート限定",
+    "Name": "ダークプラス",
+    "Attribute": "Number",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCM001",
+    "SortId": 20010001,
+    "Class": "Mega",
+    "No": 1,
+    "Version": "",
+    "Name": "ロール",
+    "Attribute": "Normal",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 20,
+    "Limit": 4,
+    "Rarity": 3,
+    "CodeList": [
+      "R",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM002",
+    "SortId": 20020002,
+    "Class": "Mega",
+    "No": 2,
+    "Version": "",
+    "Name": "ロールV2",
+    "Attribute": "Normal",
+    "Power": 40,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 40,
+    "Limit": 2,
+    "Rarity": 4,
+    "CodeList": [
+      "R"
+    ]
+  },
+  {
+    "ID": "BCM003",
+    "SortId": 20030003,
+    "Class": "Mega",
+    "No": 3,
+    "Version": "",
+    "Name": "ロールV3",
+    "Attribute": "Normal",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 60,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "R"
+    ]
+  },
+  {
+    "ID": "BCM004",
+    "SortId": 20040004,
+    "Class": "Mega",
+    "No": 4,
+    "Version": "",
+    "Name": "ブルース",
+    "Attribute": "Sword",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 41,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM005",
+    "SortId": 20050005,
+    "Class": "Mega",
+    "No": 5,
+    "Version": "",
+    "Name": "ブルースEX",
+    "Attribute": "Sword",
+    "Power": 170,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 53,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "B"
+    ]
+  },
+  {
+    "ID": "BCM006",
+    "SortId": 20060006,
+    "Class": "Mega",
+    "No": 6,
+    "Version": "",
+    "Name": "ブルースSP",
+    "Attribute": "Sword",
+    "Power": 290,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 68,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "B"
+    ]
+  },
+  {
+    "ID": "BCM007G",
+    "SortId": 20071007,
+    "Class": "Mega",
+    "No": 7,
+    "Version": "グレイガ",
+    "Name": "ヒートマン",
+    "Attribute": "Fire",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 32,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM008G",
+    "SortId": 20071008,
+    "Class": "Mega",
+    "No": 8,
+    "Version": "グレイガ",
+    "Name": "ヒートマンEX",
+    "Attribute": "Fire",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 55,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "H"
+    ]
+  },
+  {
+    "ID": "BCM009G",
+    "SortId": 20071009,
+    "Class": "Mega",
+    "No": 9,
+    "Version": "グレイガ",
+    "Name": "ヒートマンSP",
+    "Attribute": "Fire",
+    "Power": 260,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 70,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "H"
+    ]
+  },
+  {
+    "ID": "BCM010G",
+    "SortId": 20071010,
+    "Class": "Mega",
+    "No": 10,
+    "Version": "グレイガ",
+    "Name": "エレキマン",
+    "Attribute": "Elec",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 38,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "E",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM011G",
+    "SortId": 20071011,
+    "Class": "Mega",
+    "No": 11,
+    "Version": "グレイガ",
+    "Name": "エレキマンEX",
+    "Attribute": "Elec",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 52,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "E"
+    ]
+  },
+  {
+    "ID": "BCM012G",
+    "SortId": 20071012,
+    "Class": "Mega",
+    "No": 12,
+    "Version": "グレイガ",
+    "Name": "エレキマンSP",
+    "Attribute": "Elec",
+    "Power": 210,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 79,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "E"
+    ]
+  },
+  {
+    "ID": "BCM013G",
+    "SortId": 20071013,
+    "Class": "Mega",
+    "No": 13,
+    "Version": "グレイガ",
+    "Name": "スラッシュマン",
+    "Attribute": "Sword",
+    "Power": 80,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "S",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM014G",
+    "SortId": 20071014,
+    "Class": "Mega",
+    "No": 14,
+    "Version": "グレイガ",
+    "Name": "スラッシュマンEX",
+    "Attribute": "Sword",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 65,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "S"
+    ]
+  },
+  {
+    "ID": "BCM015G",
+    "SortId": 20071015,
+    "Class": "Mega",
+    "No": 15,
+    "Version": "グレイガ",
+    "Name": "スラッシュマンSP",
+    "Attribute": "Sword",
+    "Power": 220,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 79,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "S"
+    ]
+  },
+  {
+    "ID": "BCM016G",
+    "SortId": 20071016,
+    "Class": "Mega",
+    "No": 16,
+    "Version": "グレイガ",
+    "Name": "キラーマン",
+    "Attribute": "Cursor",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 51,
+    "Limit": 1,
+    "Rarity": 3,
+    "CodeList": [
+      "K",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM017G",
+    "SortId": 20071017,
+    "Class": "Mega",
+    "No": 17,
+    "Version": "グレイガ",
+    "Name": "キラーマンEX",
+    "Attribute": "Cursor",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 65,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "K"
+    ]
+  },
+  {
+    "ID": "BCM018G",
+    "SortId": 20071018,
+    "Class": "Mega",
+    "No": 18,
+    "Version": "グレイガ",
+    "Name": "キラーマンSP",
+    "Attribute": "Cursor",
+    "Power": 210,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 79,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "K"
+    ]
+  },
+  {
+    "ID": "BCM019G",
+    "SortId": 20071019,
+    "Class": "Mega",
+    "No": 19,
+    "Version": "グレイガ",
+    "Name": "チャージマン",
+    "Attribute": "Fire",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "C",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM020G",
+    "SortId": 20071020,
+    "Class": "Mega",
+    "No": 20,
+    "Version": "グレイガ",
+    "Name": "チャージマンEX",
+    "Attribute": "Fire",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 63,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "C"
+    ]
+  },
+  {
+    "ID": "BCM021G",
+    "SortId": 20071021,
+    "Class": "Mega",
+    "No": 21,
+    "Version": "グレイガ",
+    "Name": "チャージマンSP",
+    "Attribute": "Fire",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 81,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "C"
+    ]
+  },
+  {
+    "ID": "BCM007F",
+    "SortId": 20072007,
+    "Class": "Mega",
+    "No": 7,
+    "Version": "ファルザー",
+    "Name": "アクアマン",
+    "Attribute": "Water",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "A",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM008F",
+    "SortId": 20072008,
+    "Class": "Mega",
+    "No": 8,
+    "Version": "ファルザー",
+    "Name": "アクアマンEX",
+    "Attribute": "Water",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 56,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "A"
+    ]
+  },
+  {
+    "ID": "BCM009F",
+    "SortId": 20072009,
+    "Class": "Mega",
+    "No": 9,
+    "Version": "ファルザー",
+    "Name": "アクアマンSP",
+    "Attribute": "Water",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 78,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "A"
+    ]
+  },
+  {
+    "ID": "BCM010F",
+    "SortId": 20072010,
+    "Class": "Mega",
+    "No": 10,
+    "Version": "ファルザー",
+    "Name": "トマホークマン",
+    "Attribute": "Wood",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 40,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "T",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM011F",
+    "SortId": 20072011,
+    "Class": "Mega",
+    "No": 11,
+    "Version": "ファルザー",
+    "Name": "トマホークマンEX",
+    "Attribute": "Wood",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 60,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "T"
+    ]
+  },
+  {
+    "ID": "BCM012F",
+    "SortId": 20072012,
+    "Class": "Mega",
+    "No": 12,
+    "Version": "ファルザー",
+    "Name": "トマホークマンSP",
+    "Attribute": "Wood",
+    "Power": 280,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 80,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "T"
+    ]
+  },
+  {
+    "ID": "BCM013F",
+    "SortId": 20072013,
+    "Class": "Mega",
+    "No": 13,
+    "Version": "ファルザー",
+    "Name": "テングマン",
+    "Attribute": "Wind",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 43,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "T",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM014F",
+    "SortId": 20072014,
+    "Class": "Mega",
+    "No": 14,
+    "Version": "ファルザー",
+    "Name": "テングマンEX",
+    "Attribute": "Wind",
+    "Power": 90,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 61,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "T"
+    ]
+  },
+  {
+    "ID": "BCM015F",
+    "SortId": 20072015,
+    "Class": "Mega",
+    "No": 15,
+    "Version": "ファルザー",
+    "Name": "テングマンSP",
+    "Attribute": "Wind",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 74,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "T"
+    ]
+  },
+  {
+    "ID": "BCM016F",
+    "SortId": 20072016,
+    "Class": "Mega",
+    "No": 16,
+    "Version": "ファルザー",
+    "Name": "グランドマン",
+    "Attribute": "Break",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 41,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "G",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM017F",
+    "SortId": 20072017,
+    "Class": "Mega",
+    "No": 17,
+    "Version": "ファルザー",
+    "Name": "グランドマンEX",
+    "Attribute": "Break",
+    "Power": 70,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 66,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "G"
+    ]
+  },
+  {
+    "ID": "BCM018F",
+    "SortId": 20072018,
+    "Class": "Mega",
+    "No": 18,
+    "Version": "ファルザー",
+    "Name": "グランドマンSP",
+    "Attribute": "Break",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 85,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "G"
+    ]
+  },
+  {
+    "ID": "BCM019F",
+    "SortId": 20072019,
+    "Class": "Mega",
+    "No": 19,
+    "Version": "ファルザー",
+    "Name": "ダストマン",
+    "Attribute": "Break",
+    "Power": 110,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 39,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "D",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM020F",
+    "SortId": 20072020,
+    "Class": "Mega",
+    "No": 20,
+    "Version": "ファルザー",
+    "Name": "ダストマンEX",
+    "Attribute": "Break",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 56,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "D"
+    ]
+  },
+  {
+    "ID": "BCM021F",
+    "SortId": 20072021,
+    "Class": "Mega",
+    "No": 21,
+    "Version": "ファルザー",
+    "Name": "ダストマンSP",
+    "Attribute": "Break",
+    "Power": 200,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 74,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "D"
+    ]
+  },
+  {
+    "ID": "BCM022",
+    "SortId": 20220022,
+    "Class": "Mega",
+    "No": 22,
+    "Version": "",
+    "Name": "ブラストマン",
+    "Attribute": "Fire",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "B",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM023",
+    "SortId": 20230023,
+    "Class": "Mega",
+    "No": 23,
+    "Version": "",
+    "Name": "ブラストマンEX",
+    "Attribute": "Fire",
+    "Power": 140,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 49,
+    "Limit": 2,
+    "Rarity": 4,
+    "CodeList": [
+      "B"
+    ]
+  },
+  {
+    "ID": "BCM024",
+    "SortId": 20240024,
+    "Class": "Mega",
+    "No": 24,
+    "Version": "",
+    "Name": "ブラストマンSP",
+    "Attribute": "Fire",
+    "Power": 250,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 68,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "B"
+    ]
+  },
+  {
+    "ID": "BCM025",
+    "SortId": 20250025,
+    "Class": "Mega",
+    "No": 25,
+    "Version": "",
+    "Name": "ダイブマン",
+    "Attribute": "Water",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 45,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "D",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM026",
+    "SortId": 20260026,
+    "Class": "Mega",
+    "No": 26,
+    "Version": "",
+    "Name": "ダイブマンEX",
+    "Attribute": "Water",
+    "Power": 150,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 60,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "D"
+    ]
+  },
+  {
+    "ID": "BCM027",
+    "SortId": 20270027,
+    "Class": "Mega",
+    "No": 27,
+    "Version": "",
+    "Name": "ダイブマンSP",
+    "Attribute": "Water",
+    "Power": 270,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 75,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "D"
+    ]
+  },
+  {
+    "ID": "BCM028",
+    "SortId": 20280028,
+    "Class": "Mega",
+    "No": 28,
+    "Version": "",
+    "Name": "サーカスマン",
+    "Attribute": "Normal",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 42,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "C",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM029",
+    "SortId": 20290029,
+    "Class": "Mega",
+    "No": 29,
+    "Version": "",
+    "Name": "サーカスマンEX",
+    "Attribute": "Normal",
+    "Power": 25,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 64,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "C"
+    ]
+  },
+  {
+    "ID": "BCM030",
+    "SortId": 20300030,
+    "Class": "Mega",
+    "No": 30,
+    "Version": "",
+    "Name": "サーカスマンSP",
+    "Attribute": "Normal",
+    "Power": 55,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 86,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "C"
+    ]
+  },
+  {
+    "ID": "BCM031",
+    "SortId": 20310031,
+    "Class": "Mega",
+    "No": 31,
+    "Version": "",
+    "Name": "ジャッジマン",
+    "Attribute": "Elec",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 52,
+    "Limit": 1,
+    "Rarity": 3,
+    "CodeList": [
+      "J",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM032",
+    "SortId": 20320032,
+    "Class": "Mega",
+    "No": 32,
+    "Version": "",
+    "Name": "ジャッジマンEX",
+    "Attribute": "Elec",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 62,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "J"
+    ]
+  },
+  {
+    "ID": "BCM033",
+    "SortId": 20330033,
+    "Class": "Mega",
+    "No": 33,
+    "Version": "",
+    "Name": "ジャッジマンSP",
+    "Attribute": "Elec",
+    "Power": 190,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 72,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "J"
+    ]
+  },
+  {
+    "ID": "BCM034",
+    "SortId": 20340034,
+    "Class": "Mega",
+    "No": 34,
+    "Version": "",
+    "Name": "エレメントマン",
+    "Attribute": "Normal",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 50,
+    "Limit": 1,
+    "Rarity": 3,
+    "CodeList": [
+      "E",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM035",
+    "SortId": 20350035,
+    "Class": "Mega",
+    "No": 35,
+    "Version": "",
+    "Name": "エレメントマンEX",
+    "Attribute": "Normal",
+    "Power": 120,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 53,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "E"
+    ]
+  },
+  {
+    "ID": "BCM036",
+    "SortId": 20360036,
+    "Class": "Mega",
+    "No": 36,
+    "Version": "",
+    "Name": "エレメントマンSP",
+    "Attribute": "Normal",
+    "Power": 240,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 66,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "E"
+    ]
+  },
+  {
+    "ID": "BCM037",
+    "SortId": 20370037,
+    "Class": "Mega",
+    "No": 37,
+    "Version": "",
+    "Name": "カーネル",
+    "Attribute": "Sword",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 45,
+    "Limit": 2,
+    "Rarity": 3,
+    "CodeList": [
+      "C",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM038",
+    "SortId": 20380038,
+    "Class": "Mega",
+    "No": 38,
+    "Version": "",
+    "Name": "カーネルEX",
+    "Attribute": "Sword",
+    "Power": 180,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 70,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "C"
+    ]
+  },
+  {
+    "ID": "BCM039",
+    "SortId": 20390039,
+    "Class": "Mega",
+    "No": 39,
+    "Version": "",
+    "Name": "カーネルSP",
+    "Attribute": "Sword",
+    "Power": 300,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 91,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "C"
+    ]
+  },
+  {
+    "ID": "BCM040",
+    "SortId": 20400040,
+    "Class": "Mega",
+    "No": 40,
+    "Version": "",
+    "Name": "ハクシャク",
+    "Attribute": "Normal",
+    "Power": 20,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 60,
+    "Limit": 1,
+    "Rarity": 3,
+    "CodeList": [
+      "H",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM041",
+    "SortId": 20410041,
+    "Class": "Mega",
+    "No": 41,
+    "Version": "",
+    "Name": "ハクシャクEX",
+    "Attribute": "Normal",
+    "Power": 25,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 75,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "H"
+    ]
+  },
+  {
+    "ID": "BCM042",
+    "SortId": 20420042,
+    "Class": "Mega",
+    "No": 42,
+    "Version": "",
+    "Name": "ハクシャクSP",
+    "Attribute": "Normal",
+    "Power": 50,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 89,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "H"
+    ]
+  },
+  {
+    "ID": "BCM043",
+    "SortId": 20430043,
+    "Class": "Mega",
+    "No": 43,
+    "Version": "",
+    "Name": "ジャンゴ",
+    "Attribute": "Normal",
+    "Power": 130,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 30,
+    "Limit": 3,
+    "Rarity": 3,
+    "CodeList": [
+      "D",
+      "*"
+    ]
+  },
+  {
+    "ID": "BCM044",
+    "SortId": 20440044,
+    "Class": "Mega",
+    "No": 44,
+    "Version": "",
+    "Name": "ジャンゴV2",
+    "Attribute": "Normal",
+    "Power": 180,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 70,
+    "Limit": 1,
+    "Rarity": 4,
+    "CodeList": [
+      "D"
+    ]
+  },
+  {
+    "ID": "BCM045",
+    "SortId": 20450045,
+    "Class": "Mega",
+    "No": 45,
+    "Version": "",
+    "Name": "ジャンゴV3",
+    "Attribute": "Normal",
+    "Power": 260,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 90,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "D"
+    ]
+  },
+  {
+    "ID": "BCM901X",
+    "SortId": 29010901,
+    "Class": "Mega",
+    "No": 901,
+    "Version": "ゲート限定",
+    "Name": "シンクロトリガー",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 0,
+    "Limit": 0,
+    "Rarity": 0,
+    "CodeList": []
+  },
+  {
+    "ID": "BCM999",
+    "SortId": 29990999,
+    "Class": "Mega",
+    "No": 999,
+    "Version": "",
+    "Name": "ダブルビースト",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 99,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "W"
+    ]
+  },
+  {
+    "ID": "BCG001G",
+    "SortId": 30011001,
+    "Class": "Giga",
+    "No": 1,
+    "Version": "グレイガ",
+    "Name": "フォルテ",
+    "Attribute": "Normal",
+    "Power": 60,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 95,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "F"
+    ]
+  },
+  {
+    "ID": "BCG002G",
+    "SortId": 30011002,
+    "Class": "Giga",
+    "No": 2,
+    "Version": "グレイガ",
+    "Name": "ギガントフック",
+    "Attribute": "Break",
+    "Power": 240,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break"
+    ],
+    "Capacity": 92,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "H"
+    ]
+  },
+  {
+    "ID": "BCG003G",
+    "SortId": 30011003,
+    "Class": "Giga",
+    "No": 3,
+    "Version": "グレイガ",
+    "Name": "デルタレイエッジ",
+    "Attribute": "Sword",
+    "Power": 260,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 82,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "Z"
+    ]
+  },
+  {
+    "ID": "BCG004G",
+    "SortId": 30011004,
+    "Class": "Giga",
+    "No": 4,
+    "Version": "グレイガ",
+    "Name": "カーネルフォース",
+    "Attribute": "Normal",
+    "Power": 30,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [],
+    "Capacity": 90,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "Q"
+    ]
+  },
+  {
+    "ID": "BCG005G",
+    "SortId": 30011005,
+    "Class": "Giga",
+    "No": 5,
+    "Version": "グレイガ",
+    "Name": "バグライズソード",
+    "Attribute": "Sword",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 80,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "V"
+    ]
+  },
+  {
+    "ID": "BCG001F",
+    "SortId": 30012001,
+    "Class": "Giga",
+    "No": 1,
+    "Version": "ファルザー",
+    "Name": "フォルテアナザー",
+    "Attribute": "Normal",
+    "Power": 160,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 95,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "F"
+    ]
+  },
+  {
+    "ID": "BCG002F",
+    "SortId": 30012002,
+    "Class": "Giga",
+    "No": 2,
+    "Version": "ファルザー",
+    "Name": "メテオナックル",
+    "Attribute": "Break",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 90,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "N"
+    ]
+  },
+  {
+    "ID": "BCG003F",
+    "SortId": 30012003,
+    "Class": "Giga",
+    "No": 3,
+    "Version": "ファルザー",
+    "Name": "クロスディバイド",
+    "Attribute": "Sword",
+    "Power": 250,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Sword"
+    ],
+    "Capacity": 93,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "D"
+    ]
+  },
+  {
+    "ID": "BCG004F",
+    "SortId": 30012004,
+    "Class": "Giga",
+    "No": 4,
+    "Version": "ファルザー",
+    "Name": "サイトバッチ",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 99,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "J"
+    ]
+  },
+  {
+    "ID": "BCG005F",
+    "SortId": 30012005,
+    "Class": "Giga",
+    "No": 5,
+    "Version": "ファルザー",
+    "Name": "バグデスサンダー",
+    "Attribute": "Elec",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Paralysis"
+    ],
+    "Capacity": 80,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "V"
+    ]
+  },
+  {
+    "ID": "BCG999G",
+    "SortId": 39991999,
+    "Class": "Giga",
+    "No": 999,
+    "Version": "グレイガ",
+    "Name": "グレイガ",
+    "Attribute": "Normal",
+    "Power": 300,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "Break",
+      "AntiGround"
+    ],
+    "Capacity": 99,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "X"
+    ]
+  },
+  {
+    "ID": "BCG999F",
+    "SortId": 39992999,
+    "Class": "Giga",
+    "No": 999,
+    "Version": "ファルザー",
+    "Name": "ファルザー",
+    "Attribute": "Normal",
+    "Power": 100,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": true,
+    "EffectList": [
+      "KnockBack",
+      "Invisible",
+      "AntiGround"
+    ],
+    "Capacity": 99,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "X"
+    ]
+  },
+  {
+    "ID": "BCX001",
+    "SortId": 40010001,
+    "Class": "Secret",
+    "No": 1,
+    "Version": "",
+    "Name": "ガンデルソルEX",
+    "Attribute": "Normal",
+    "Power": 0,
+    "HP": 0,
+    "Lifetime": 0,
+    "Event": false,
+    "EffectList": [
+      "Break",
+      "AntiInvisible",
+      "AntiGround"
+    ],
+    "Capacity": 80,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "G"
+    ]
+  },
+  {
+    "ID": "BCX002",
+    "SortId": 40020002,
+    "Class": "Secret",
+    "No": 2,
+    "Version": "",
+    "Name": "オテンコサマ",
+    "Attribute": "Object",
+    "Power": 0,
+    "HP": 100,
+    "Lifetime": 30,
+    "Event": true,
+    "EffectList": [],
+    "Capacity": 66,
+    "Limit": 1,
+    "Rarity": 5,
+    "CodeList": [
+      "O"
+    ]
+  }
+]
