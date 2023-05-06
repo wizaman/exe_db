@@ -278,8 +278,8 @@
     "Event": false,
     "EffectList": [
       "KnockBack",
-      "Blow",
       "Invisible",
+      "Blow",
       "AntiGround",
       "PanelCrack"
     ],
@@ -306,8 +306,8 @@
     "Event": false,
     "EffectList": [
       "KnockBack",
-      "Blow",
       "Invisible",
+      "Blow",
       "AntiGround",
       "PanelCrack"
     ],
@@ -334,8 +334,8 @@
     "Event": false,
     "EffectList": [
       "KnockBack",
-      "Blow",
       "Invisible",
+      "Blow",
       "AntiGround",
       "PanelCrack"
     ],
