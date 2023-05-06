@@ -214,8 +214,8 @@
     "CodeList": [
       "L",
       "M",
-      "*",
-      "N"
+      "N",
+      "*"
     ]
   },
   {
@@ -278,8 +278,8 @@
     "Event": false,
     "EffectList": [
       "KnockBack",
-      "Blow",
       "Invisible",
+      "Blow",
       "AntiGround",
       "PanelCrack"
     ],
@@ -306,8 +306,8 @@
     "Event": false,
     "EffectList": [
       "KnockBack",
-      "Blow",
       "Invisible",
+      "Blow",
       "AntiGround",
       "PanelCrack"
     ],
@@ -334,8 +334,8 @@
     "Event": false,
     "EffectList": [
       "KnockBack",
-      "Blow",
       "Invisible",
+      "Blow",
       "AntiGround",
       "PanelCrack"
     ],
@@ -449,8 +449,8 @@
     "CodeList": [
       "L",
       "M",
-      "*",
-      "N"
+      "N",
+      "*"
     ]
   },
   {
@@ -504,8 +504,8 @@
     "Rarity": 2,
     "CodeList": [
       "S",
-      "U",
-      "T"
+      "T",
+      "U"
     ]
   },
   {
@@ -556,8 +556,8 @@
     "Rarity": 3,
     "CodeList": [
       "P",
-      "R",
-      "Q"
+      "Q",
+      "R"
     ]
   },
   {
@@ -700,8 +700,8 @@
     "Rarity": 3,
     "CodeList": [
       "G",
-      "S",
-      "R"
+      "R",
+      "S"
     ]
   },
   {
@@ -724,8 +724,8 @@
     "Rarity": 2,
     "CodeList": [
       "B",
-      "S",
       "R",
+      "S",
       "*"
     ]
   },
@@ -875,8 +875,8 @@
     "Rarity": 3,
     "CodeList": [
       "A",
-      "S",
-      "J"
+      "J",
+      "S"
     ]
   },
   {
@@ -925,8 +925,8 @@
     "Rarity": 2,
     "CodeList": [
       "C",
-      "E",
-      "D"
+      "D",
+      "E"
     ]
   },
   {
@@ -1046,8 +1046,8 @@
     "Rarity": 1,
     "CodeList": [
       "I",
-      "P",
-      "K"
+      "K",
+      "P"
     ]
   },
   {
@@ -1094,8 +1094,8 @@
     "Rarity": 3,
     "CodeList": [
       "F",
-      "W",
-      "N"
+      "N",
+      "W"
     ]
   },
   {
@@ -1505,8 +1505,8 @@
     "CodeList": [
       "C",
       "K",
-      "*",
-      "V"
+      "V",
+      "*"
     ]
   },
   {
@@ -2212,8 +2212,8 @@
     "Rarity": 3,
     "CodeList": [
       "N",
-      "Y",
-      "R"
+      "R",
+      "Y"
     ]
   },
   {
@@ -2236,8 +2236,8 @@
     "Rarity": 1,
     "CodeList": [
       "A",
-      "T",
       "G",
+      "T",
       "*"
     ]
   },
@@ -2286,8 +2286,8 @@
     "Rarity": 3,
     "CodeList": [
       "J",
-      "V",
       "L",
+      "V",
       "*"
     ]
   },
@@ -2309,8 +2309,8 @@
     "Rarity": 1,
     "CodeList": [
       "A",
-      "P",
       "C",
+      "P",
       "*"
     ]
   },
@@ -2735,8 +2735,8 @@
     "Rarity": 1,
     "CodeList": [
       "H",
-      "V",
-      "P"
+      "P",
+      "V"
     ]
   },
   {
@@ -2785,8 +2785,8 @@
     "Rarity": 3,
     "CodeList": [
       "E",
-      "Z",
-      "O"
+      "O",
+      "Z"
     ]
   },
   {
@@ -2990,8 +2990,8 @@
     "Rarity": 3,
     "CodeList": [
       "I",
-      "Q",
-      "K"
+      "K",
+      "Q"
     ]
   },
   {
@@ -3015,8 +3015,8 @@
     "Rarity": 2,
     "CodeList": [
       "J",
-      "T",
-      "K"
+      "K",
+      "T"
     ]
   },
   {
@@ -3065,8 +3065,8 @@
     "Rarity": 4,
     "CodeList": [
       "I",
-      "W",
-      "M"
+      "M",
+      "W"
     ]
   },
   {
@@ -3593,8 +3593,8 @@
     "Rarity": 1,
     "CodeList": [
       "G",
-      "R",
-      "K"
+      "K",
+      "R"
     ]
   },
   {
@@ -3792,8 +3792,8 @@
     "CodeList": [
       "A",
       "G",
-      "*",
-      "S"
+      "S",
+      "*"
     ]
   },
   {
@@ -3816,8 +3816,8 @@
     "Rarity": 2,
     "CodeList": [
       "I",
-      "T",
       "O",
+      "T",
       "*"
     ]
   },
@@ -3940,8 +3940,8 @@
     "CodeList": [
       "A",
       "D",
-      "*",
-      "L"
+      "L",
+      "*"
     ]
   },
   {
@@ -4097,8 +4097,8 @@
     "Rarity": 4,
     "CodeList": [
       "J",
-      "Y",
-      "O"
+      "O",
+      "Y"
     ]
   },
   {
@@ -4174,8 +4174,8 @@
     "Rarity": 3,
     "CodeList": [
       "B",
-      "S",
-      "M"
+      "M",
+      "S"
     ]
   },
   {
@@ -4362,8 +4362,8 @@
     "Rarity": 3,
     "CodeList": [
       "A",
-      "G",
       "B",
+      "G",
       "*"
     ]
   },
@@ -4449,8 +4449,8 @@
     "CodeList": [
       "K",
       "P",
-      "*",
-      "Z"
+      "Z",
+      "*"
     ]
   },
   {
@@ -4492,8 +4492,8 @@
     "CodeList": [
       "A",
       "F",
-      "*",
-      "R"
+      "R",
+      "*"
     ]
   },
   {
@@ -4650,8 +4650,8 @@
     "Rarity": 3,
     "CodeList": [
       "G",
-      "U",
       "S",
+      "U",
       "*"
     ]
   },
@@ -4674,8 +4674,8 @@
     "CodeList": [
       "F",
       "L",
-      "*",
-      "T"
+      "T",
+      "*"
     ]
   },
   {
@@ -4726,8 +4726,8 @@
     "Rarity": 3,
     "CodeList": [
       "A",
-      "Z",
       "R",
+      "Z",
       "*"
     ]
   },
@@ -4751,8 +4751,8 @@
     "Rarity": 3,
     "CodeList": [
       "A",
-      "V",
       "F",
+      "V",
       "*"
     ]
   },
