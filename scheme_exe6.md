@@ -86,7 +86,6 @@
 | Break         | ブレイク性能           |                                                              |
 | AntiInvisible | 対インビジブル         |                                                              |
 | AntiGround    | 対地中                 |                                                              |
-| AntiBarrier   | 対バリア               |                                                              |
 | Paralysis     | マヒ付与               |                                                              |
 | Bubble        | バブル付与             |                                                              |
 | Confusion     | 混乱付与               |                                                              |
