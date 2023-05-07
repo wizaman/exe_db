@@ -22,3 +22,7 @@ Airtableで定義したデータをAPIで取得して、公開用のJSONデー�
 Airtableの機能でフィルタや検索が利用できますので、PCブラウザからはこれだけでも十分に役に立つでしょう。スマートフォンのブラウザでは、情報量の少ないレイアウトに変わるため一覧性は良くないです。
 
 JSONデータの生成処理はAirtable側で定義したデータ設計などに大きく依存しているため、本リポジトリでは取り扱わないものとします。
+
+## Issues
+
+データミスや要望があれば、 [Issues](https://github.com/wizaman/exe_db/issues) にて[起案](https://github.com/wizaman/exe_db/issues/new)のご協力をお願いします。
