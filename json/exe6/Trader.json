@@ -15,6 +15,7 @@
       {
         "ID": "BCS001",
         "Name": "キャノン",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "B",
@@ -24,6 +25,7 @@
       {
         "ID": "BCS002",
         "Name": "ハイキャノン",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -33,6 +35,7 @@
       {
         "ID": "BCS004",
         "Name": "エアシュート",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -40,6 +43,7 @@
       {
         "ID": "BCS005",
         "Name": "バルカン1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "D",
@@ -49,6 +53,7 @@
       {
         "ID": "BCS006",
         "Name": "バルカン2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "F",
@@ -58,6 +63,7 @@
       {
         "ID": "BCS009",
         "Name": "スプレッドガン1",
+        "Rarity": 1,
         "CodeList": [
           "L",
           "M",
@@ -67,6 +73,7 @@
       {
         "ID": "BCS010",
         "Name": "スプレッドガン2",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "B",
@@ -76,6 +83,7 @@
       {
         "ID": "BCS012",
         "Name": "センシャホウ1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -85,6 +93,7 @@
       {
         "ID": "BCS015",
         "Name": "ガンデルソル1",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "M",
@@ -94,6 +103,7 @@
       {
         "ID": "BCS018",
         "Name": "ヨーヨー",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "M",
@@ -103,6 +113,7 @@
       {
         "ID": "BCS019",
         "Name": "ヘルズバーナー1",
+        "Rarity": 1,
         "CodeList": [
           "F",
           "G",
@@ -112,6 +123,7 @@
       {
         "ID": "BCS020",
         "Name": "ヘルズバーナー2",
+        "Rarity": 2,
         "CodeList": [
           "S",
           "T",
@@ -121,6 +133,7 @@
       {
         "ID": "BCS023",
         "Name": "トレインアロー1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "F",
@@ -130,6 +143,7 @@
       {
         "ID": "BCS024",
         "Name": "トレインアロー2",
+        "Rarity": 2,
         "CodeList": [
           "G",
           "M",
@@ -139,6 +153,7 @@
       {
         "ID": "BCS026",
         "Name": "バブルスター1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "E",
@@ -148,6 +163,7 @@
       {
         "ID": "BCS027",
         "Name": "バブルスター2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "L",
@@ -157,6 +173,7 @@
       {
         "ID": "BCS029",
         "Name": "サンダーボール",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "R",
@@ -166,6 +183,7 @@
       {
         "ID": "BCS036",
         "Name": "コーンショット1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "K",
@@ -175,6 +193,7 @@
       {
         "ID": "BCS039",
         "Name": "リスキーハニー1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "G",
@@ -184,6 +203,7 @@
       {
         "ID": "BCS042",
         "Name": "ローリングログ1",
+        "Rarity": 1,
         "CodeList": [
           "I",
           "K",
@@ -193,6 +213,7 @@
       {
         "ID": "BCS045",
         "Name": "アイアンシェル1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "K",
@@ -202,6 +223,7 @@
       {
         "ID": "BCS046",
         "Name": "アイアンシェル2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "D",
@@ -211,6 +233,7 @@
       {
         "ID": "BCS055",
         "Name": "マシンガン1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "R",
@@ -220,6 +243,7 @@
       {
         "ID": "BCS056",
         "Name": "マシンガン2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "G",
@@ -229,6 +253,7 @@
       {
         "ID": "BCS058",
         "Name": "ミニボム",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "L",
@@ -238,6 +263,7 @@
       {
         "ID": "BCS060",
         "Name": "エナジーボム",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "K",
@@ -247,6 +273,7 @@
       {
         "ID": "BCS062",
         "Name": "フラッシュボム1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "L",
@@ -256,6 +283,7 @@
       {
         "ID": "BCS067",
         "Name": "クサムラシード",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "F",
@@ -265,6 +293,7 @@
       {
         "ID": "BCS068",
         "Name": "アイスシード",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "L",
@@ -274,6 +303,7 @@
       {
         "ID": "BCS070",
         "Name": "ソード",
+        "Rarity": 1,
         "CodeList": [
           "H",
           "L",
@@ -283,6 +313,7 @@
       {
         "ID": "BCS071",
         "Name": "ワイドソード",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "L",
@@ -292,6 +323,7 @@
       {
         "ID": "BCS072",
         "Name": "ロングソード",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "L",
@@ -301,6 +333,7 @@
       {
         "ID": "BCS088",
         "Name": "クラックシュート",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -310,6 +343,7 @@
       {
         "ID": "BCS089",
         "Name": "ダブルシュート",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "R",
@@ -319,6 +353,7 @@
       {
         "ID": "BCS090",
         "Name": "トリプルシュート",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "L",
@@ -328,6 +363,7 @@
       {
         "ID": "BCS091",
         "Name": "リフレクメット1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "C",
@@ -337,6 +373,7 @@
       {
         "ID": "BCS092",
         "Name": "リフレクメット2",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "G",
@@ -346,6 +383,7 @@
       {
         "ID": "BCS094",
         "Name": "ウェーブアーム1",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "F",
@@ -355,6 +393,7 @@
       {
         "ID": "BCS095",
         "Name": "ウェーブアーム2",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -364,6 +403,7 @@
       {
         "ID": "BCS105",
         "Name": "ファイアパンチ1",
+        "Rarity": 1,
         "CodeList": [
           "D",
           "E",
@@ -373,6 +413,7 @@
       {
         "ID": "BCS106",
         "Name": "ファイアパンチ2",
+        "Rarity": 2,
         "CodeList": [
           "R",
           "S",
@@ -382,6 +423,7 @@
       {
         "ID": "BCS112",
         "Name": "アクアニードル1",
+        "Rarity": 1,
         "CodeList": [
           "C",
           "J",
@@ -391,6 +433,7 @@
       {
         "ID": "BCS113",
         "Name": "アクアニードル2",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "K",
@@ -400,6 +443,7 @@
       {
         "ID": "BCS119",
         "Name": "ブーメラン",
+        "Rarity": 2,
         "CodeList": [
           "J",
           "K",
@@ -409,6 +453,7 @@
       {
         "ID": "BCS127",
         "Name": "ゴーレムパンチ1",
+        "Rarity": 1,
         "CodeList": [
           "I",
           "K",
@@ -418,6 +463,7 @@
       {
         "ID": "BCS128",
         "Name": "ゴーレムパンチ2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "P",
@@ -427,6 +473,7 @@
       {
         "ID": "BCS131",
         "Name": "エアホイール1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -436,6 +483,7 @@
       {
         "ID": "BCS134",
         "Name": "トップウ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -443,6 +491,7 @@
       {
         "ID": "BCS135",
         "Name": "スイコミ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -450,6 +499,7 @@
       {
         "ID": "BCS138",
         "Name": "ストーンキューブ",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -457,6 +507,7 @@
       {
         "ID": "BCS139",
         "Name": "リトルボイラー1",
+        "Rarity": 1,
         "CodeList": [
           "F",
           "K",
@@ -466,6 +517,7 @@
       {
         "ID": "BCS145",
         "Name": "カウントボム1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -475,6 +527,7 @@
       {
         "ID": "BCS149",
         "Name": "オウエンカ",
+        "Rarity": 2,
         "CodeList": [
           "P",
           "S",
@@ -484,6 +537,7 @@
       {
         "ID": "BCS156",
         "Name": "リカバリー10",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "D",
@@ -493,6 +547,7 @@
       {
         "ID": "BCS157",
         "Name": "リカバリー30",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "L",
@@ -502,6 +557,7 @@
       {
         "ID": "BCS158",
         "Name": "リカバリー50",
+        "Rarity": 1,
         "CodeList": [
           "C",
           "M",
@@ -511,6 +567,7 @@
       {
         "ID": "BCS159",
         "Name": "リカバリー80",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "K",
@@ -520,6 +577,7 @@
       {
         "ID": "BCS164",
         "Name": "パネルスチール",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -527,6 +585,7 @@
       {
         "ID": "BCS165",
         "Name": "エリアスチール",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "F",
@@ -536,6 +595,7 @@
       {
         "ID": "BCS168",
         "Name": "パネルリターン",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -543,6 +603,7 @@
       {
         "ID": "BCS172",
         "Name": "カミングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -550,6 +611,7 @@
       {
         "ID": "BCS173",
         "Name": "ゴーイングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -557,6 +619,7 @@
       {
         "ID": "BCS179",
         "Name": "インビジブル",
+        "Rarity": 3,
         "CodeList": [
           "*"
         ]
@@ -564,6 +627,7 @@
       {
         "ID": "BCS180",
         "Name": "バリア",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "F",
@@ -573,6 +637,7 @@
       {
         "ID": "BCS185",
         "Name": "マグネコイル",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -580,6 +645,7 @@
       {
         "ID": "BCS192",
         "Name": "ホワイトカプセル",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -587,6 +653,7 @@
       {
         "ID": "BCS194",
         "Name": "コピーダメージ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -594,6 +661,7 @@
       {
         "ID": "BCS195",
         "Name": "ライフシンクロ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -601,6 +669,7 @@
       {
         "ID": "BCS196",
         "Name": "アタック+10",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -608,6 +677,7 @@
       {
         "ID": "BCS199",
         "Name": "カラーポイント",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -630,6 +700,7 @@
       {
         "ID": "BCS001",
         "Name": "キャノン",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "B",
@@ -640,6 +711,7 @@
       {
         "ID": "BCS002",
         "Name": "ハイキャノン",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -650,6 +722,7 @@
       {
         "ID": "BCS004",
         "Name": "エアシュート",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -657,6 +730,7 @@
       {
         "ID": "BCS005",
         "Name": "バルカン1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "D",
@@ -667,6 +741,7 @@
       {
         "ID": "BCS006",
         "Name": "バルカン2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "F",
@@ -676,6 +751,7 @@
       {
         "ID": "BCS009",
         "Name": "スプレッドガン1",
+        "Rarity": 1,
         "CodeList": [
           "L",
           "M",
@@ -686,6 +762,7 @@
       {
         "ID": "BCS010",
         "Name": "スプレッドガン2",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "B",
@@ -696,6 +773,7 @@
       {
         "ID": "BCS012",
         "Name": "センシャホウ1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -705,6 +783,7 @@
       {
         "ID": "BCS013",
         "Name": "センシャホウ2",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "S",
@@ -714,6 +793,7 @@
       {
         "ID": "BCS015",
         "Name": "ガンデルソル1",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "M",
@@ -724,6 +804,7 @@
       {
         "ID": "BCS016",
         "Name": "ガンデルソル2",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "E",
@@ -733,6 +814,7 @@
       {
         "ID": "BCS018",
         "Name": "ヨーヨー",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "M",
@@ -743,6 +825,7 @@
       {
         "ID": "BCS019",
         "Name": "ヘルズバーナー1",
+        "Rarity": 1,
         "CodeList": [
           "F",
           "G",
@@ -753,6 +836,7 @@
       {
         "ID": "BCS020",
         "Name": "ヘルズバーナー2",
+        "Rarity": 2,
         "CodeList": [
           "S",
           "T",
@@ -762,6 +846,7 @@
       {
         "ID": "BCS023",
         "Name": "トレインアロー1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "F",
@@ -771,6 +856,7 @@
       {
         "ID": "BCS024",
         "Name": "トレインアロー2",
+        "Rarity": 2,
         "CodeList": [
           "G",
           "M",
@@ -780,6 +866,7 @@
       {
         "ID": "BCS026",
         "Name": "バブルスター1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "E",
@@ -789,6 +876,7 @@
       {
         "ID": "BCS027",
         "Name": "バブルスター2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "L",
@@ -798,6 +886,7 @@
       {
         "ID": "BCS029",
         "Name": "サンダーボール",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "R",
@@ -808,6 +897,7 @@
       {
         "ID": "BCS030",
         "Name": "ドールサンダー1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "E",
@@ -817,6 +907,7 @@
       {
         "ID": "BCS031",
         "Name": "ドールサンダー2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "L",
@@ -826,6 +917,7 @@
       {
         "ID": "BCS033",
         "Name": "エレキパルス1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "L",
@@ -835,6 +927,7 @@
       {
         "ID": "BCS034",
         "Name": "エレキパルス2",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "E",
@@ -844,6 +937,7 @@
       {
         "ID": "BCS036",
         "Name": "コーンショット1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "K",
@@ -853,6 +947,7 @@
       {
         "ID": "BCS037",
         "Name": "コーンショット2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "D",
@@ -862,6 +957,7 @@
       {
         "ID": "BCS039",
         "Name": "リスキーハニー1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "G",
@@ -871,6 +967,7 @@
       {
         "ID": "BCS040",
         "Name": "リスキーハニー2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "R",
@@ -880,6 +977,7 @@
       {
         "ID": "BCS042",
         "Name": "ローリングログ1",
+        "Rarity": 1,
         "CodeList": [
           "I",
           "K",
@@ -889,6 +987,7 @@
       {
         "ID": "BCS043",
         "Name": "ローリングログ2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "Q",
@@ -898,6 +997,7 @@
       {
         "ID": "BCS045",
         "Name": "アイアンシェル1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "K",
@@ -907,6 +1007,7 @@
       {
         "ID": "BCS046",
         "Name": "アイアンシェル2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "D",
@@ -916,6 +1017,7 @@
       {
         "ID": "BCS048",
         "Name": "オーラヘッド1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "C",
@@ -925,6 +1027,7 @@
       {
         "ID": "BCS051",
         "Name": "エアホッケー",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "M",
@@ -934,6 +1037,7 @@
       {
         "ID": "BCS052",
         "Name": "ドリルアーム",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "M",
@@ -943,6 +1047,7 @@
       {
         "ID": "BCS053",
         "Name": "トルネード",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "R",
@@ -952,6 +1057,7 @@
       {
         "ID": "BCS055",
         "Name": "マシンガン1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "R",
@@ -962,6 +1068,7 @@
       {
         "ID": "BCS056",
         "Name": "マシンガン2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "G",
@@ -971,6 +1078,7 @@
       {
         "ID": "BCS058",
         "Name": "ミニボム",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "L",
@@ -981,6 +1089,7 @@
       {
         "ID": "BCS059",
         "Name": "ビッグボム",
+        "Rarity": 4,
         "CodeList": [
           "O",
           "P",
@@ -990,6 +1099,7 @@
       {
         "ID": "BCS060",
         "Name": "エナジーボム",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "K",
@@ -1000,6 +1110,7 @@
       {
         "ID": "BCS061",
         "Name": "メガエナジーボム",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "M",
@@ -1010,6 +1121,7 @@
       {
         "ID": "BCS065",
         "Name": "ブラックボム",
+        "Rarity": 4,
         "CodeList": [
           "B",
           "F",
@@ -1019,6 +1131,7 @@
       {
         "ID": "BCS067",
         "Name": "クサムラシード",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "F",
@@ -1029,6 +1142,7 @@
       {
         "ID": "BCS068",
         "Name": "アイスシード",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "L",
@@ -1039,6 +1153,7 @@
       {
         "ID": "BCS070",
         "Name": "ソード",
+        "Rarity": 1,
         "CodeList": [
           "H",
           "L",
@@ -1049,6 +1164,7 @@
       {
         "ID": "BCS071",
         "Name": "ワイドソード",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "L",
@@ -1059,6 +1175,7 @@
       {
         "ID": "BCS072",
         "Name": "ロングソード",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "L",
@@ -1069,6 +1186,7 @@
       {
         "ID": "BCS073",
         "Name": "ワイドブレード",
+        "Rarity": 4,
         "CodeList": [
           "B",
           "R",
@@ -1078,6 +1196,7 @@
       {
         "ID": "BCS074",
         "Name": "ロングブレード",
+        "Rarity": 4,
         "CodeList": [
           "B",
           "M",
@@ -1087,6 +1206,7 @@
       {
         "ID": "BCS075",
         "Name": "フレイムソード",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "O",
@@ -1096,6 +1216,7 @@
       {
         "ID": "BCS076",
         "Name": "アクアソード",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "I",
@@ -1105,6 +1226,7 @@
       {
         "ID": "BCS077",
         "Name": "エレキソード",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "K",
@@ -1114,6 +1236,7 @@
       {
         "ID": "BCS078",
         "Name": "バンブーソード",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "S",
@@ -1123,6 +1246,7 @@
       {
         "ID": "BCS079",
         "Name": "フウジンラケット",
+        "Rarity": 3,
         "CodeList": [
           "F",
           "J",
@@ -1133,6 +1257,7 @@
       {
         "ID": "BCS080",
         "Name": "フミコミザン",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "L",
@@ -1142,6 +1267,7 @@
       {
         "ID": "BCS081",
         "Name": "バリアブルソード",
+        "Rarity": 3,
         "CodeList": [
           "K",
           "V",
@@ -1151,6 +1277,7 @@
       {
         "ID": "BCS083",
         "Name": "エンゲツクナイ",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "M",
@@ -1160,6 +1287,7 @@
       {
         "ID": "BCS088",
         "Name": "クラックシュート",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -1170,6 +1298,7 @@
       {
         "ID": "BCS089",
         "Name": "ダブルシュート",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "R",
@@ -1180,6 +1309,7 @@
       {
         "ID": "BCS090",
         "Name": "トリプルシュート",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "L",
@@ -1190,6 +1320,7 @@
       {
         "ID": "BCS091",
         "Name": "リフレクメット1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "C",
@@ -1200,6 +1331,7 @@
       {
         "ID": "BCS092",
         "Name": "リフレクメット2",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "G",
@@ -1210,6 +1342,7 @@
       {
         "ID": "BCS094",
         "Name": "ウェーブアーム1",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "F",
@@ -1219,6 +1352,7 @@
       {
         "ID": "BCS095",
         "Name": "ウェーブアーム2",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -1228,6 +1362,7 @@
       {
         "ID": "BCS100",
         "Name": "サモンブラック1",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "I",
@@ -1237,6 +1372,7 @@
       {
         "ID": "BCS103",
         "Name": "カモンスネーク",
+        "Rarity": 4,
         "CodeList": [
           "H",
           "L",
@@ -1246,6 +1382,7 @@
       {
         "ID": "BCS105",
         "Name": "ファイアパンチ1",
+        "Rarity": 1,
         "CodeList": [
           "D",
           "E",
@@ -1255,6 +1392,7 @@
       {
         "ID": "BCS106",
         "Name": "ファイアパンチ2",
+        "Rarity": 2,
         "CodeList": [
           "R",
           "S",
@@ -1264,6 +1402,7 @@
       {
         "ID": "BCS108",
         "Name": "バーンスクエア1",
+        "Rarity": 1,
         "CodeList": [
           "H",
           "P",
@@ -1273,6 +1412,7 @@
       {
         "ID": "BCS112",
         "Name": "アクアニードル1",
+        "Rarity": 1,
         "CodeList": [
           "C",
           "J",
@@ -1282,6 +1422,7 @@
       {
         "ID": "BCS113",
         "Name": "アクアニードル2",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "K",
@@ -1291,6 +1432,7 @@
       {
         "ID": "BCS116",
         "Name": "キラーセンサー1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "O",
@@ -1300,6 +1442,7 @@
       {
         "ID": "BCS119",
         "Name": "ブーメラン",
+        "Rarity": 2,
         "CodeList": [
           "J",
           "K",
@@ -1309,6 +1452,7 @@
       {
         "ID": "BCS120",
         "Name": "ハイブーメラン",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "L",
@@ -1318,6 +1462,7 @@
       {
         "ID": "BCS122",
         "Name": "バンブーランス",
+        "Rarity": 4,
         "CodeList": [
           "A",
           "R",
@@ -1328,6 +1473,7 @@
       {
         "ID": "BCS127",
         "Name": "ゴーレムパンチ1",
+        "Rarity": 1,
         "CodeList": [
           "I",
           "K",
@@ -1337,6 +1483,7 @@
       {
         "ID": "BCS128",
         "Name": "ゴーレムパンチ2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "P",
@@ -1346,6 +1493,7 @@
       {
         "ID": "BCS131",
         "Name": "エアホイール1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -1355,6 +1503,7 @@
       {
         "ID": "BCS132",
         "Name": "エアホイール2",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "L",
@@ -1364,6 +1513,7 @@
       {
         "ID": "BCS134",
         "Name": "トップウ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1371,6 +1521,7 @@
       {
         "ID": "BCS135",
         "Name": "スイコミ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1378,6 +1529,7 @@
       {
         "ID": "BCS136",
         "Name": "マグナム",
+        "Rarity": 3,
         "CodeList": [
           "F",
           "L",
@@ -1387,6 +1539,7 @@
       {
         "ID": "BCS137",
         "Name": "サークルガン",
+        "Rarity": 3,
         "CodeList": [
           "P",
           "T",
@@ -1396,6 +1549,7 @@
       {
         "ID": "BCS138",
         "Name": "ストーンキューブ",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -1403,6 +1557,7 @@
       {
         "ID": "BCS139",
         "Name": "リトルボイラー1",
+        "Rarity": 1,
         "CodeList": [
           "F",
           "K",
@@ -1412,6 +1567,7 @@
       {
         "ID": "BCS140",
         "Name": "リトルボイラー2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "M",
@@ -1421,6 +1577,7 @@
       {
         "ID": "BCS142",
         "Name": "エアレイド1",
+        "Rarity": 1,
         "CodeList": [
           "G",
           "K",
@@ -1430,6 +1587,7 @@
       {
         "ID": "BCS143",
         "Name": "エアレイド2",
+        "Rarity": 2,
         "CodeList": [
           "O",
           "T",
@@ -1439,6 +1597,7 @@
       {
         "ID": "BCS145",
         "Name": "カウントボム1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -1448,6 +1607,7 @@
       {
         "ID": "BCS146",
         "Name": "カウントボム2",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "D",
@@ -1457,6 +1617,7 @@
       {
         "ID": "BCS148",
         "Name": "ステルスマイン",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "S",
@@ -1466,6 +1627,7 @@
       {
         "ID": "BCS149",
         "Name": "オウエンカ",
+        "Rarity": 2,
         "CodeList": [
           "P",
           "S",
@@ -1476,6 +1638,7 @@
       {
         "ID": "BCS150",
         "Name": "ディスコード",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "G",
@@ -1486,6 +1649,7 @@
       {
         "ID": "BCS156",
         "Name": "リカバリー10",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "D",
@@ -1496,6 +1660,7 @@
       {
         "ID": "BCS157",
         "Name": "リカバリー30",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "L",
@@ -1506,6 +1671,7 @@
       {
         "ID": "BCS158",
         "Name": "リカバリー50",
+        "Rarity": 1,
         "CodeList": [
           "C",
           "M",
@@ -1516,6 +1682,7 @@
       {
         "ID": "BCS159",
         "Name": "リカバリー80",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "K",
@@ -1526,6 +1693,7 @@
       {
         "ID": "BCS160",
         "Name": "リカバリー120",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "P",
@@ -1535,6 +1703,7 @@
       {
         "ID": "BCS161",
         "Name": "リカバリー150",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "M",
@@ -1544,6 +1713,7 @@
       {
         "ID": "BCS164",
         "Name": "パネルスチール",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -1551,6 +1721,7 @@
       {
         "ID": "BCS165",
         "Name": "エリアスチール",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "F",
@@ -1561,6 +1732,7 @@
       {
         "ID": "BCS166",
         "Name": "スチールパニシュ",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "M",
@@ -1570,6 +1742,7 @@
       {
         "ID": "BCS168",
         "Name": "パネルリターン",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1577,6 +1750,7 @@
       {
         "ID": "BCS170",
         "Name": "ホーリーパネル",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "B",
@@ -1587,6 +1761,7 @@
       {
         "ID": "BCS172",
         "Name": "カミングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -1594,6 +1769,7 @@
       {
         "ID": "BCS173",
         "Name": "ゴーイングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -1601,6 +1777,7 @@
       {
         "ID": "BCS174",
         "Name": "ヘビーゲージ",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "B",
@@ -1611,6 +1788,7 @@
       {
         "ID": "BCS175",
         "Name": "クイックゲージ",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "M",
@@ -1621,6 +1799,7 @@
       {
         "ID": "BCS176",
         "Name": "フルカスタム",
+        "Rarity": 4,
         "CodeList": [
           "*"
         ]
@@ -1628,6 +1807,7 @@
       {
         "ID": "BCS177",
         "Name": "バスターアップ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1635,6 +1815,7 @@
       {
         "ID": "BCS179",
         "Name": "インビジブル",
+        "Rarity": 3,
         "CodeList": [
           "*"
         ]
@@ -1642,6 +1823,7 @@
       {
         "ID": "BCS180",
         "Name": "バリア",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "F",
@@ -1652,6 +1834,7 @@
       {
         "ID": "BCS181",
         "Name": "バリア100",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "O",
@@ -1661,6 +1844,7 @@
       {
         "ID": "BCS183",
         "Name": "バブルラップ",
+        "Rarity": 3,
         "CodeList": [
           "I",
           "Q",
@@ -1670,6 +1854,7 @@
       {
         "ID": "BCS185",
         "Name": "マグネコイル",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -1677,6 +1862,7 @@
       {
         "ID": "BCS186",
         "Name": "カーネルアーミー",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "G",
@@ -1687,6 +1873,7 @@
       {
         "ID": "BCS187",
         "Name": "エレメントラップ",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "S",
@@ -1697,6 +1884,7 @@
       {
         "ID": "BCS188",
         "Name": "ナビスカウト",
+        "Rarity": 4,
         "CodeList": [
           "F",
           "L",
@@ -1707,6 +1895,7 @@
       {
         "ID": "BCS189",
         "Name": "カワリミ",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "R",
@@ -1717,6 +1906,7 @@
       {
         "ID": "BCS190",
         "Name": "シラハドリ",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "R",
@@ -1727,6 +1917,7 @@
       {
         "ID": "BCS191",
         "Name": "バッドメディスン",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "F",
@@ -1737,6 +1928,7 @@
       {
         "ID": "BCS192",
         "Name": "ホワイトカプセル",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1744,6 +1936,7 @@
       {
         "ID": "BCS193",
         "Name": "アンインストール",
+        "Rarity": 4,
         "CodeList": [
           "G",
           "L",
@@ -1753,6 +1946,7 @@
       {
         "ID": "BCS194",
         "Name": "コピーダメージ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1760,6 +1954,7 @@
       {
         "ID": "BCS195",
         "Name": "ライフシンクロ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1767,6 +1962,7 @@
       {
         "ID": "BCS196",
         "Name": "アタック+10",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -1774,6 +1970,7 @@
       {
         "ID": "BCS197",
         "Name": "アタック+30",
+        "Rarity": 4,
         "CodeList": [
           "*"
         ]
@@ -1781,6 +1978,7 @@
       {
         "ID": "BCS198",
         "Name": "ナビ+20",
+        "Rarity": 3,
         "CodeList": [
           "*"
         ]
@@ -1788,6 +1986,7 @@
       {
         "ID": "BCS199",
         "Name": "カラーポイント",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1795,6 +1994,7 @@
       {
         "ID": "BCS200",
         "Name": "ダブルポイント",
+        "Rarity": 4,
         "CodeList": [
           "*"
         ]
@@ -1817,6 +2017,7 @@
       {
         "ID": "BCS001",
         "Name": "キャノン",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "B",
@@ -1826,6 +2027,7 @@
       {
         "ID": "BCS002",
         "Name": "ハイキャノン",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -1835,6 +2037,7 @@
       {
         "ID": "BCS003",
         "Name": "メガキャノン",
+        "Rarity": 3,
         "CodeList": [
           "R",
           "S",
@@ -1844,6 +2047,7 @@
       {
         "ID": "BCS004",
         "Name": "エアシュート",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -1851,6 +2055,7 @@
       {
         "ID": "BCS005",
         "Name": "バルカン1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "D",
@@ -1860,6 +2065,7 @@
       {
         "ID": "BCS006",
         "Name": "バルカン2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "F",
@@ -1869,6 +2075,7 @@
       {
         "ID": "BCS009",
         "Name": "スプレッドガン1",
+        "Rarity": 1,
         "CodeList": [
           "L",
           "M",
@@ -1878,6 +2085,7 @@
       {
         "ID": "BCS010",
         "Name": "スプレッドガン2",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "B",
@@ -1887,6 +2095,7 @@
       {
         "ID": "BCS012",
         "Name": "センシャホウ1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -1896,6 +2105,7 @@
       {
         "ID": "BCS013",
         "Name": "センシャホウ2",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "S",
@@ -1905,6 +2115,7 @@
       {
         "ID": "BCS015",
         "Name": "ガンデルソル1",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "M",
@@ -1914,6 +2125,7 @@
       {
         "ID": "BCS016",
         "Name": "ガンデルソル2",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "E",
@@ -1923,6 +2135,7 @@
       {
         "ID": "BCS019",
         "Name": "ヘルズバーナー1",
+        "Rarity": 1,
         "CodeList": [
           "F",
           "G",
@@ -1932,6 +2145,7 @@
       {
         "ID": "BCS020",
         "Name": "ヘルズバーナー2",
+        "Rarity": 2,
         "CodeList": [
           "S",
           "T",
@@ -1941,6 +2155,7 @@
       {
         "ID": "BCS023",
         "Name": "トレインアロー1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "F",
@@ -1950,6 +2165,7 @@
       {
         "ID": "BCS024",
         "Name": "トレインアロー2",
+        "Rarity": 2,
         "CodeList": [
           "G",
           "M",
@@ -1959,6 +2175,7 @@
       {
         "ID": "BCS026",
         "Name": "バブルスター1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "E",
@@ -1968,6 +2185,7 @@
       {
         "ID": "BCS027",
         "Name": "バブルスター2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "L",
@@ -1977,6 +2195,7 @@
       {
         "ID": "BCS029",
         "Name": "サンダーボール",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "R",
@@ -1986,6 +2205,7 @@
       {
         "ID": "BCS030",
         "Name": "ドールサンダー1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "E",
@@ -1995,6 +2215,7 @@
       {
         "ID": "BCS031",
         "Name": "ドールサンダー2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "L",
@@ -2004,6 +2225,7 @@
       {
         "ID": "BCS033",
         "Name": "エレキパルス1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "L",
@@ -2013,6 +2235,7 @@
       {
         "ID": "BCS034",
         "Name": "エレキパルス2",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "E",
@@ -2022,6 +2245,7 @@
       {
         "ID": "BCS036",
         "Name": "コーンショット1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "K",
@@ -2031,6 +2255,7 @@
       {
         "ID": "BCS037",
         "Name": "コーンショット2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "D",
@@ -2040,6 +2265,7 @@
       {
         "ID": "BCS039",
         "Name": "リスキーハニー1",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "G",
@@ -2049,6 +2275,7 @@
       {
         "ID": "BCS040",
         "Name": "リスキーハニー2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "R",
@@ -2058,6 +2285,7 @@
       {
         "ID": "BCS049",
         "Name": "オーラヘッド2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "E",
@@ -2067,6 +2295,7 @@
       {
         "ID": "BCS055",
         "Name": "マシンガン1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "R",
@@ -2076,6 +2305,7 @@
       {
         "ID": "BCS056",
         "Name": "マシンガン2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "G",
@@ -2085,6 +2315,7 @@
       {
         "ID": "BCS058",
         "Name": "ミニボム",
+        "Rarity": 1,
         "CodeList": [
           "B",
           "L",
@@ -2094,6 +2325,7 @@
       {
         "ID": "BCS060",
         "Name": "エナジーボム",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "K",
@@ -2103,6 +2335,7 @@
       {
         "ID": "BCS061",
         "Name": "メガエナジーボム",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "M",
@@ -2112,6 +2345,7 @@
       {
         "ID": "BCS062",
         "Name": "フラッシュボム1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "L",
@@ -2121,6 +2355,7 @@
       {
         "ID": "BCS070",
         "Name": "ソード",
+        "Rarity": 1,
         "CodeList": [
           "H",
           "L",
@@ -2130,6 +2365,7 @@
       {
         "ID": "BCS071",
         "Name": "ワイドソード",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "L",
@@ -2139,6 +2375,7 @@
       {
         "ID": "BCS072",
         "Name": "ロングソード",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "L",
@@ -2148,6 +2385,7 @@
       {
         "ID": "BCS075",
         "Name": "フレイムソード",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "O",
@@ -2157,6 +2395,7 @@
       {
         "ID": "BCS076",
         "Name": "アクアソード",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "I",
@@ -2166,6 +2405,7 @@
       {
         "ID": "BCS088",
         "Name": "クラックシュート",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -2175,6 +2415,7 @@
       {
         "ID": "BCS089",
         "Name": "ダブルシュート",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "R",
@@ -2184,6 +2425,7 @@
       {
         "ID": "BCS090",
         "Name": "トリプルシュート",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "L",
@@ -2193,6 +2435,7 @@
       {
         "ID": "BCS091",
         "Name": "リフレクメット1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "C",
@@ -2202,6 +2445,7 @@
       {
         "ID": "BCS092",
         "Name": "リフレクメット2",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "G",
@@ -2211,6 +2455,7 @@
       {
         "ID": "BCS094",
         "Name": "ウェーブアーム1",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "F",
@@ -2220,6 +2465,7 @@
       {
         "ID": "BCS095",
         "Name": "ウェーブアーム2",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -2229,6 +2475,7 @@
       {
         "ID": "BCS097",
         "Name": "サンドワーム1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -2238,6 +2485,7 @@
       {
         "ID": "BCS100",
         "Name": "サモンブラック1",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "I",
@@ -2247,6 +2495,7 @@
       {
         "ID": "BCS101",
         "Name": "サモンブラック2",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "O",
@@ -2256,6 +2505,7 @@
       {
         "ID": "BCS113",
         "Name": "アクアニードル2",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "K",
@@ -2265,6 +2515,7 @@
       {
         "ID": "BCS116",
         "Name": "キラーセンサー1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "O",
@@ -2274,6 +2525,7 @@
       {
         "ID": "BCS117",
         "Name": "キラーセンサー2",
+        "Rarity": 2,
         "CodeList": [
           "N",
           "U",
@@ -2283,6 +2535,7 @@
       {
         "ID": "BCS119",
         "Name": "ブーメラン",
+        "Rarity": 2,
         "CodeList": [
           "J",
           "K",
@@ -2292,6 +2545,7 @@
       {
         "ID": "BCS127",
         "Name": "ゴーレムパンチ1",
+        "Rarity": 1,
         "CodeList": [
           "I",
           "K",
@@ -2301,6 +2555,7 @@
       {
         "ID": "BCS128",
         "Name": "ゴーレムパンチ2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "P",
@@ -2310,6 +2565,7 @@
       {
         "ID": "BCS131",
         "Name": "エアホイール1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -2319,6 +2575,7 @@
       {
         "ID": "BCS134",
         "Name": "トップウ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2326,6 +2583,7 @@
       {
         "ID": "BCS135",
         "Name": "スイコミ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2333,6 +2591,7 @@
       {
         "ID": "BCS138",
         "Name": "ストーンキューブ",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -2340,6 +2599,7 @@
       {
         "ID": "BCS139",
         "Name": "リトルボイラー1",
+        "Rarity": 1,
         "CodeList": [
           "F",
           "K",
@@ -2349,6 +2609,7 @@
       {
         "ID": "BCS140",
         "Name": "リトルボイラー2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "M",
@@ -2358,6 +2619,7 @@
       {
         "ID": "BCS142",
         "Name": "エアレイド1",
+        "Rarity": 1,
         "CodeList": [
           "G",
           "K",
@@ -2367,6 +2629,7 @@
       {
         "ID": "BCS143",
         "Name": "エアレイド2",
+        "Rarity": 2,
         "CodeList": [
           "O",
           "T",
@@ -2376,6 +2639,7 @@
       {
         "ID": "BCS145",
         "Name": "カウントボム1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -2385,6 +2649,7 @@
       {
         "ID": "BCS149",
         "Name": "オウエンカ",
+        "Rarity": 2,
         "CodeList": [
           "P",
           "S",
@@ -2394,6 +2659,7 @@
       {
         "ID": "BCS150",
         "Name": "ディスコード",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "G",
@@ -2403,6 +2669,7 @@
       {
         "ID": "BCS151",
         "Name": "ティンパニー",
+        "Rarity": 2,
         "CodeList": [
           "I",
           "O",
@@ -2412,6 +2679,7 @@
       {
         "ID": "BCS156",
         "Name": "リカバリー10",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "D",
@@ -2421,6 +2689,7 @@
       {
         "ID": "BCS157",
         "Name": "リカバリー30",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "L",
@@ -2430,6 +2699,7 @@
       {
         "ID": "BCS158",
         "Name": "リカバリー50",
+        "Rarity": 1,
         "CodeList": [
           "C",
           "M",
@@ -2439,6 +2709,7 @@
       {
         "ID": "BCS159",
         "Name": "リカバリー80",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "K",
@@ -2448,6 +2719,7 @@
       {
         "ID": "BCS160",
         "Name": "リカバリー120",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "P",
@@ -2457,6 +2729,7 @@
       {
         "ID": "BCS161",
         "Name": "リカバリー150",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "M",
@@ -2466,6 +2739,7 @@
       {
         "ID": "BCS164",
         "Name": "パネルスチール",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -2473,6 +2747,7 @@
       {
         "ID": "BCS165",
         "Name": "エリアスチール",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "F",
@@ -2482,6 +2757,7 @@
       {
         "ID": "BCS168",
         "Name": "パネルリターン",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2489,6 +2765,7 @@
       {
         "ID": "BCS172",
         "Name": "カミングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -2496,6 +2773,7 @@
       {
         "ID": "BCS173",
         "Name": "ゴーイングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -2503,6 +2781,7 @@
       {
         "ID": "BCS177",
         "Name": "バスターアップ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2510,6 +2789,7 @@
       {
         "ID": "BCS179",
         "Name": "インビジブル",
+        "Rarity": 3,
         "CodeList": [
           "*"
         ]
@@ -2517,6 +2797,7 @@
       {
         "ID": "BCS180",
         "Name": "バリア",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "F",
@@ -2526,6 +2807,7 @@
       {
         "ID": "BCS185",
         "Name": "マグネコイル",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -2533,6 +2815,7 @@
       {
         "ID": "BCS192",
         "Name": "ホワイトカプセル",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2540,6 +2823,7 @@
       {
         "ID": "BCS194",
         "Name": "コピーダメージ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2547,6 +2831,7 @@
       {
         "ID": "BCS195",
         "Name": "ライフシンクロ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2554,6 +2839,7 @@
       {
         "ID": "BCS196",
         "Name": "アタック+10",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -2561,6 +2847,7 @@
       {
         "ID": "BCS199",
         "Name": "カラーポイント",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -2568,6 +2855,7 @@
       {
         "ID": "BCM001",
         "Name": "ロール",
+        "Rarity": 3,
         "CodeList": [
           "R"
         ]
@@ -2575,6 +2863,7 @@
       {
         "ID": "BCM007G",
         "Name": "ヒートマン",
+        "Rarity": 3,
         "CodeList": [
           "H"
         ]
@@ -2582,6 +2871,7 @@
       {
         "ID": "BCM010G",
         "Name": "エレキマン",
+        "Rarity": 3,
         "CodeList": [
           "E"
         ]
@@ -2589,6 +2879,7 @@
       {
         "ID": "BCM013G",
         "Name": "スラッシュマン",
+        "Rarity": 3,
         "CodeList": [
           "S"
         ]
@@ -2596,6 +2887,7 @@
       {
         "ID": "BCM016G",
         "Name": "キラーマン",
+        "Rarity": 3,
         "CodeList": [
           "K"
         ]
@@ -2603,6 +2895,7 @@
       {
         "ID": "BCM019G",
         "Name": "チャージマン",
+        "Rarity": 3,
         "CodeList": [
           "C"
         ]
@@ -2610,6 +2903,7 @@
       {
         "ID": "BCM007F",
         "Name": "アクアマン",
+        "Rarity": 3,
         "CodeList": [
           "A"
         ]
@@ -2617,6 +2911,7 @@
       {
         "ID": "BCM010F",
         "Name": "トマホークマン",
+        "Rarity": 3,
         "CodeList": [
           "T"
         ]
@@ -2624,6 +2919,7 @@
       {
         "ID": "BCM013F",
         "Name": "テングマン",
+        "Rarity": 3,
         "CodeList": [
           "T"
         ]
@@ -2631,6 +2927,7 @@
       {
         "ID": "BCM016F",
         "Name": "グランドマン",
+        "Rarity": 3,
         "CodeList": [
           "G"
         ]
@@ -2638,6 +2935,7 @@
       {
         "ID": "BCM019F",
         "Name": "ダストマン",
+        "Rarity": 3,
         "CodeList": [
           "D"
         ]
@@ -2645,6 +2943,7 @@
       {
         "ID": "BCM022",
         "Name": "ブラストマン",
+        "Rarity": 3,
         "CodeList": [
           "B"
         ]
@@ -2652,6 +2951,7 @@
       {
         "ID": "BCM025",
         "Name": "ダイブマン",
+        "Rarity": 3,
         "CodeList": [
           "D"
         ]
@@ -2659,6 +2959,7 @@
       {
         "ID": "BCM028",
         "Name": "サーカスマン",
+        "Rarity": 3,
         "CodeList": [
           "C"
         ]
@@ -2666,6 +2967,7 @@
       {
         "ID": "BCM031",
         "Name": "ジャッジマン",
+        "Rarity": 3,
         "CodeList": [
           "J"
         ]
@@ -2673,6 +2975,7 @@
       {
         "ID": "BCM034",
         "Name": "エレメントマン",
+        "Rarity": 3,
         "CodeList": [
           "E"
         ]
@@ -2695,6 +2998,7 @@
       {
         "ID": "BCS002",
         "Name": "ハイキャノン",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -2705,6 +3009,7 @@
       {
         "ID": "BCS003",
         "Name": "メガキャノン",
+        "Rarity": 3,
         "CodeList": [
           "R",
           "S",
@@ -2715,6 +3020,7 @@
       {
         "ID": "BCS006",
         "Name": "バルカン2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "F",
@@ -2724,6 +3030,7 @@
       {
         "ID": "BCS007",
         "Name": "バルカン3",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "G",
@@ -2733,6 +3040,7 @@
       {
         "ID": "BCS010",
         "Name": "スプレッドガン2",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "B",
@@ -2743,6 +3051,7 @@
       {
         "ID": "BCS011",
         "Name": "スプレッドガン3",
+        "Rarity": 3,
         "CodeList": [
           "Q",
           "R",
@@ -2753,6 +3062,7 @@
       {
         "ID": "BCS013",
         "Name": "センシャホウ2",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "S",
@@ -2762,6 +3072,7 @@
       {
         "ID": "BCS014",
         "Name": "センシャホウ3",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "M",
@@ -2771,6 +3082,7 @@
       {
         "ID": "BCS016",
         "Name": "ガンデルソル2",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "E",
@@ -2780,6 +3092,7 @@
       {
         "ID": "BCS018",
         "Name": "ヨーヨー",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "M",
@@ -2790,6 +3103,7 @@
       {
         "ID": "BCS020",
         "Name": "ヘルズバーナー2",
+        "Rarity": 2,
         "CodeList": [
           "S",
           "T",
@@ -2799,6 +3113,7 @@
       {
         "ID": "BCS021",
         "Name": "ヘルズバーナー3",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "D",
@@ -2808,6 +3123,7 @@
       {
         "ID": "BCS022",
         "Name": "ワイドショット",
+        "Rarity": 3,
         "CodeList": [
           "P",
           "Q",
@@ -2817,6 +3133,7 @@
       {
         "ID": "BCS024",
         "Name": "トレインアロー2",
+        "Rarity": 2,
         "CodeList": [
           "G",
           "M",
@@ -2826,6 +3143,7 @@
       {
         "ID": "BCS025",
         "Name": "トレインアロー3",
+        "Rarity": 3,
         "CodeList": [
           "M",
           "S",
@@ -2835,6 +3153,7 @@
       {
         "ID": "BCS027",
         "Name": "バブルスター2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "L",
@@ -2844,6 +3163,7 @@
       {
         "ID": "BCS028",
         "Name": "バブルスター3",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "R",
@@ -2853,6 +3173,7 @@
       {
         "ID": "BCS031",
         "Name": "ドールサンダー2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "L",
@@ -2862,6 +3183,7 @@
       {
         "ID": "BCS032",
         "Name": "ドールサンダー3",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "R",
@@ -2871,6 +3193,7 @@
       {
         "ID": "BCS034",
         "Name": "エレキパルス2",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "E",
@@ -2880,6 +3203,7 @@
       {
         "ID": "BCS035",
         "Name": "エレキパルス3",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "J",
@@ -2889,6 +3213,7 @@
       {
         "ID": "BCS037",
         "Name": "コーンショット2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "D",
@@ -2898,6 +3223,7 @@
       {
         "ID": "BCS038",
         "Name": "コーンショット3",
+        "Rarity": 3,
         "CodeList": [
           "P",
           "Q",
@@ -2907,6 +3233,7 @@
       {
         "ID": "BCS040",
         "Name": "リスキーハニー2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "R",
@@ -2916,6 +3243,7 @@
       {
         "ID": "BCS041",
         "Name": "リスキーハニー3",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "D",
@@ -2925,6 +3253,7 @@
       {
         "ID": "BCS043",
         "Name": "ローリングログ2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "Q",
@@ -2934,6 +3263,7 @@
       {
         "ID": "BCS044",
         "Name": "ローリングログ3",
+        "Rarity": 3,
         "CodeList": [
           "F",
           "N",
@@ -2943,6 +3273,7 @@
       {
         "ID": "BCS046",
         "Name": "アイアンシェル2",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "D",
@@ -2952,6 +3283,7 @@
       {
         "ID": "BCS047",
         "Name": "アイアンシェル3",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "M",
@@ -2961,6 +3293,7 @@
       {
         "ID": "BCS049",
         "Name": "オーラヘッド2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "E",
@@ -2970,6 +3303,7 @@
       {
         "ID": "BCS050",
         "Name": "オーラヘッド3",
+        "Rarity": 3,
         "CodeList": [
           "F",
           "G",
@@ -2979,6 +3313,7 @@
       {
         "ID": "BCS051",
         "Name": "エアホッケー",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "M",
@@ -2988,6 +3323,7 @@
       {
         "ID": "BCS052",
         "Name": "ドリルアーム",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "M",
@@ -2997,6 +3333,7 @@
       {
         "ID": "BCS053",
         "Name": "トルネード",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "R",
@@ -3006,6 +3343,7 @@
       {
         "ID": "BCS056",
         "Name": "マシンガン2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "G",
@@ -3015,6 +3353,7 @@
       {
         "ID": "BCS057",
         "Name": "マシンガン3",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "F",
@@ -3024,6 +3363,7 @@
       {
         "ID": "BCS059",
         "Name": "ビッグボム",
+        "Rarity": 4,
         "CodeList": [
           "O",
           "P",
@@ -3033,6 +3373,7 @@
       {
         "ID": "BCS061",
         "Name": "メガエナジーボム",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "M",
@@ -3043,6 +3384,7 @@
       {
         "ID": "BCS062",
         "Name": "フラッシュボム1",
+        "Rarity": 1,
         "CodeList": [
           "J",
           "L",
@@ -3053,6 +3395,7 @@
       {
         "ID": "BCS063",
         "Name": "フラッシュボム2",
+        "Rarity": 2,
         "CodeList": [
           "G",
           "K",
@@ -3062,6 +3405,7 @@
       {
         "ID": "BCS064",
         "Name": "フラッシュボム3",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "P",
@@ -3071,6 +3415,7 @@
       {
         "ID": "BCS065",
         "Name": "ブラックボム",
+        "Rarity": 4,
         "CodeList": [
           "B",
           "F",
@@ -3080,6 +3425,7 @@
       {
         "ID": "BCS066",
         "Name": "バグボム",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "S",
@@ -3089,6 +3435,7 @@
       {
         "ID": "BCS073",
         "Name": "ワイドブレード",
+        "Rarity": 4,
         "CodeList": [
           "B",
           "R",
@@ -3098,6 +3445,7 @@
       {
         "ID": "BCS074",
         "Name": "ロングブレード",
+        "Rarity": 4,
         "CodeList": [
           "B",
           "M",
@@ -3107,6 +3455,7 @@
       {
         "ID": "BCS075",
         "Name": "フレイムソード",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "O",
@@ -3116,6 +3465,7 @@
       {
         "ID": "BCS076",
         "Name": "アクアソード",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "I",
@@ -3125,6 +3475,7 @@
       {
         "ID": "BCS077",
         "Name": "エレキソード",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "K",
@@ -3134,6 +3485,7 @@
       {
         "ID": "BCS078",
         "Name": "バンブーソード",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "S",
@@ -3143,6 +3495,7 @@
       {
         "ID": "BCS079",
         "Name": "フウジンラケット",
+        "Rarity": 3,
         "CodeList": [
           "F",
           "J",
@@ -3153,6 +3506,7 @@
       {
         "ID": "BCS080",
         "Name": "フミコミザン",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "L",
@@ -3162,6 +3516,7 @@
       {
         "ID": "BCS081",
         "Name": "バリアブルソード",
+        "Rarity": 3,
         "CodeList": [
           "K",
           "V",
@@ -3171,6 +3526,7 @@
       {
         "ID": "BCS083",
         "Name": "エンゲツクナイ",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "M",
@@ -3180,6 +3536,7 @@
       {
         "ID": "BCS085",
         "Name": "マシーンソード",
+        "Rarity": 1,
         "CodeList": [
           "H",
           "L",
@@ -3189,6 +3546,7 @@
       {
         "ID": "BCS086",
         "Name": "エレメントソード",
+        "Rarity": 2,
         "CodeList": [
           "J",
           "M",
@@ -3198,6 +3556,7 @@
       {
         "ID": "BCS092",
         "Name": "リフレクメット2",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "G",
@@ -3208,6 +3567,7 @@
       {
         "ID": "BCS093",
         "Name": "リフレクメット3",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "F",
@@ -3218,6 +3578,7 @@
       {
         "ID": "BCS095",
         "Name": "ウェーブアーム2",
+        "Rarity": 2,
         "CodeList": [
           "L",
           "M",
@@ -3227,6 +3588,7 @@
       {
         "ID": "BCS096",
         "Name": "ウェーブアーム3",
+        "Rarity": 3,
         "CodeList": [
           "R",
           "S",
@@ -3236,6 +3598,7 @@
       {
         "ID": "BCS097",
         "Name": "サンドワーム1",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "G",
@@ -3245,6 +3608,7 @@
       {
         "ID": "BCS098",
         "Name": "サンドワーム2",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "R",
@@ -3254,6 +3618,7 @@
       {
         "ID": "BCS101",
         "Name": "サモンブラック2",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "O",
@@ -3263,6 +3628,7 @@
       {
         "ID": "BCS102",
         "Name": "サモンブラック3",
+        "Rarity": 3,
         "CodeList": [
           "W",
           "Y",
@@ -3272,6 +3638,7 @@
       {
         "ID": "BCS103",
         "Name": "カモンスネーク",
+        "Rarity": 4,
         "CodeList": [
           "H",
           "L",
@@ -3281,6 +3648,7 @@
       {
         "ID": "BCS106",
         "Name": "ファイアパンチ2",
+        "Rarity": 2,
         "CodeList": [
           "R",
           "S",
@@ -3290,6 +3658,7 @@
       {
         "ID": "BCS107",
         "Name": "ファイアパンチ3",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "B",
@@ -3299,6 +3668,7 @@
       {
         "ID": "BCS109",
         "Name": "バーンスクエア2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "M",
@@ -3308,6 +3678,7 @@
       {
         "ID": "BCS110",
         "Name": "バーンスクエア3",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "O",
@@ -3317,6 +3688,7 @@
       {
         "ID": "BCS113",
         "Name": "アクアニードル2",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "K",
@@ -3326,6 +3698,7 @@
       {
         "ID": "BCS114",
         "Name": "アクアニードル3",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "L",
@@ -3335,6 +3708,7 @@
       {
         "ID": "BCS117",
         "Name": "キラーセンサー2",
+        "Rarity": 2,
         "CodeList": [
           "N",
           "U",
@@ -3344,6 +3718,7 @@
       {
         "ID": "BCS118",
         "Name": "キラーセンサー3",
+        "Rarity": 3,
         "CodeList": [
           "I",
           "K",
@@ -3353,6 +3728,7 @@
       {
         "ID": "BCS120",
         "Name": "ハイブーメラン",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "L",
@@ -3362,6 +3738,7 @@
       {
         "ID": "BCS122",
         "Name": "バンブーランス",
+        "Rarity": 4,
         "CodeList": [
           "A",
           "R",
@@ -3372,6 +3749,7 @@
       {
         "ID": "BCS123",
         "Name": "ヒートドラゴン",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "R",
@@ -3381,6 +3759,7 @@
       {
         "ID": "BCS124",
         "Name": "エレキドラゴン",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "L",
@@ -3390,6 +3769,7 @@
       {
         "ID": "BCS125",
         "Name": "アクアドラゴン",
+        "Rarity": 4,
         "CodeList": [
           "H",
           "P",
@@ -3399,6 +3779,7 @@
       {
         "ID": "BCS128",
         "Name": "ゴーレムパンチ2",
+        "Rarity": 2,
         "CodeList": [
           "D",
           "P",
@@ -3408,6 +3789,7 @@
       {
         "ID": "BCS129",
         "Name": "ゴーレムパンチ3",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "M",
@@ -3417,6 +3799,7 @@
       {
         "ID": "BCS131",
         "Name": "エアホイール1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -3426,6 +3809,7 @@
       {
         "ID": "BCS132",
         "Name": "エアホイール2",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "L",
@@ -3435,6 +3819,7 @@
       {
         "ID": "BCS134",
         "Name": "トップウ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3442,6 +3827,7 @@
       {
         "ID": "BCS135",
         "Name": "スイコミ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3449,6 +3835,7 @@
       {
         "ID": "BCS136",
         "Name": "マグナム",
+        "Rarity": 3,
         "CodeList": [
           "F",
           "L",
@@ -3458,6 +3845,7 @@
       {
         "ID": "BCS137",
         "Name": "サークルガン",
+        "Rarity": 3,
         "CodeList": [
           "P",
           "T",
@@ -3467,6 +3855,7 @@
       {
         "ID": "BCS138",
         "Name": "ストーンキューブ",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -3474,6 +3863,7 @@
       {
         "ID": "BCS140",
         "Name": "リトルボイラー2",
+        "Rarity": 2,
         "CodeList": [
           "E",
           "M",
@@ -3483,6 +3873,7 @@
       {
         "ID": "BCS141",
         "Name": "リトルボイラー3",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "S",
@@ -3492,6 +3883,7 @@
       {
         "ID": "BCS143",
         "Name": "エアレイド2",
+        "Rarity": 2,
         "CodeList": [
           "O",
           "T",
@@ -3501,6 +3893,7 @@
       {
         "ID": "BCS144",
         "Name": "エアレイド3",
+        "Rarity": 3,
         "CodeList": [
           "N",
           "U",
@@ -3510,6 +3903,7 @@
       {
         "ID": "BCS145",
         "Name": "カウントボム1",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "G",
@@ -3519,6 +3913,7 @@
       {
         "ID": "BCS146",
         "Name": "カウントボム2",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "D",
@@ -3528,6 +3923,7 @@
       {
         "ID": "BCS148",
         "Name": "ステルスマイン",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "S",
@@ -3537,6 +3933,7 @@
       {
         "ID": "BCS149",
         "Name": "オウエンカ",
+        "Rarity": 2,
         "CodeList": [
           "P",
           "S",
@@ -3547,6 +3944,7 @@
       {
         "ID": "BCS150",
         "Name": "ディスコード",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "G",
@@ -3557,6 +3955,7 @@
       {
         "ID": "BCS151",
         "Name": "ティンパニー",
+        "Rarity": 2,
         "CodeList": [
           "I",
           "O",
@@ -3567,6 +3966,7 @@
       {
         "ID": "BCS152",
         "Name": "サイレンス",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "R",
@@ -3577,6 +3977,7 @@
       {
         "ID": "BCS153",
         "Name": "ワラニンギョウ",
+        "Rarity": 4,
         "CodeList": [
           "F",
           "N",
@@ -3587,6 +3988,7 @@
       {
         "ID": "BCS156",
         "Name": "リカバリー10",
+        "Rarity": 1,
         "CodeList": [
           "A",
           "D",
@@ -3597,6 +3999,7 @@
       {
         "ID": "BCS157",
         "Name": "リカバリー30",
+        "Rarity": 1,
         "CodeList": [
           "E",
           "L",
@@ -3607,6 +4010,7 @@
       {
         "ID": "BCS158",
         "Name": "リカバリー50",
+        "Rarity": 1,
         "CodeList": [
           "C",
           "M",
@@ -3617,6 +4021,7 @@
       {
         "ID": "BCS159",
         "Name": "リカバリー80",
+        "Rarity": 2,
         "CodeList": [
           "H",
           "K",
@@ -3627,6 +4032,7 @@
       {
         "ID": "BCS160",
         "Name": "リカバリー120",
+        "Rarity": 2,
         "CodeList": [
           "F",
           "P",
@@ -3636,6 +4042,7 @@
       {
         "ID": "BCS161",
         "Name": "リカバリー150",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "M",
@@ -3645,6 +4052,7 @@
       {
         "ID": "BCS162",
         "Name": "リカバリー200",
+        "Rarity": 3,
         "CodeList": [
           "I",
           "Q",
@@ -3654,6 +4062,7 @@
       {
         "ID": "BCS164",
         "Name": "パネルスチール",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -3661,6 +4070,7 @@
       {
         "ID": "BCS165",
         "Name": "エリアスチール",
+        "Rarity": 2,
         "CodeList": [
           "B",
           "F",
@@ -3671,6 +4081,7 @@
       {
         "ID": "BCS166",
         "Name": "スチールパニシュ",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "M",
@@ -3680,6 +4091,7 @@
       {
         "ID": "BCS167",
         "Name": "スチールリベンジ",
+        "Rarity": 4,
         "CodeList": [
           "I",
           "Q",
@@ -3689,6 +4101,7 @@
       {
         "ID": "BCS168",
         "Name": "パネルリターン",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3696,6 +4109,7 @@
       {
         "ID": "BCS169",
         "Name": "デスマッチ",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "L",
@@ -3706,6 +4120,7 @@
       {
         "ID": "BCS170",
         "Name": "ホーリーパネル",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "B",
@@ -3716,6 +4131,7 @@
       {
         "ID": "BCS172",
         "Name": "カミングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -3723,6 +4139,7 @@
       {
         "ID": "BCS173",
         "Name": "ゴーイングロード",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -3730,6 +4147,7 @@
       {
         "ID": "BCS174",
         "Name": "ヘビーゲージ",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "B",
@@ -3740,6 +4158,7 @@
       {
         "ID": "BCS175",
         "Name": "クイックゲージ",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "M",
@@ -3750,6 +4169,7 @@
       {
         "ID": "BCS177",
         "Name": "バスターアップ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3757,6 +4177,7 @@
       {
         "ID": "BCS178",
         "Name": "バグシュウセイ",
+        "Rarity": 4,
         "CodeList": [
           "K",
           "P",
@@ -3767,6 +4188,7 @@
       {
         "ID": "BCS179",
         "Name": "インビジブル",
+        "Rarity": 3,
         "CodeList": [
           "*"
         ]
@@ -3774,6 +4196,7 @@
       {
         "ID": "BCS180",
         "Name": "バリア",
+        "Rarity": 2,
         "CodeList": [
           "A",
           "F",
@@ -3784,6 +4207,7 @@
       {
         "ID": "BCS181",
         "Name": "バリア100",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "O",
@@ -3793,6 +4217,7 @@
       {
         "ID": "BCS182",
         "Name": "バリア200",
+        "Rarity": 4,
         "CodeList": [
           "K",
           "U",
@@ -3802,6 +4227,7 @@
       {
         "ID": "BCS183",
         "Name": "バブルラップ",
+        "Rarity": 3,
         "CodeList": [
           "I",
           "Q",
@@ -3811,6 +4237,7 @@
       {
         "ID": "BCS185",
         "Name": "マグネコイル",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -3818,6 +4245,7 @@
       {
         "ID": "BCS186",
         "Name": "カーネルアーミー",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "G",
@@ -3828,6 +4256,7 @@
       {
         "ID": "BCS187",
         "Name": "エレメントラップ",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "S",
@@ -3838,6 +4267,7 @@
       {
         "ID": "BCS188",
         "Name": "ナビスカウト",
+        "Rarity": 4,
         "CodeList": [
           "F",
           "L",
@@ -3848,6 +4278,7 @@
       {
         "ID": "BCS189",
         "Name": "カワリミ",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "R",
@@ -3858,6 +4289,7 @@
       {
         "ID": "BCS190",
         "Name": "シラハドリ",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "R",
@@ -3868,6 +4300,7 @@
       {
         "ID": "BCS191",
         "Name": "バッドメディスン",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "F",
@@ -3878,6 +4311,7 @@
       {
         "ID": "BCS192",
         "Name": "ホワイトカプセル",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3885,6 +4319,7 @@
       {
         "ID": "BCS193",
         "Name": "アンインストール",
+        "Rarity": 4,
         "CodeList": [
           "G",
           "L",
@@ -3894,6 +4329,7 @@
       {
         "ID": "BCS194",
         "Name": "コピーダメージ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3901,6 +4337,7 @@
       {
         "ID": "BCS195",
         "Name": "ライフシンクロ",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3908,6 +4345,7 @@
       {
         "ID": "BCS196",
         "Name": "アタック+10",
+        "Rarity": 1,
         "CodeList": [
           "*"
         ]
@@ -3915,6 +4353,7 @@
       {
         "ID": "BCS198",
         "Name": "ナビ+20",
+        "Rarity": 3,
         "CodeList": [
           "*"
         ]
@@ -3922,6 +4361,7 @@
       {
         "ID": "BCS199",
         "Name": "カラーポイント",
+        "Rarity": 2,
         "CodeList": [
           "*"
         ]
@@ -3929,6 +4369,7 @@
       {
         "ID": "BCM001",
         "Name": "ロール",
+        "Rarity": 3,
         "CodeList": [
           "R",
           "*"
@@ -3937,6 +4378,7 @@
       {
         "ID": "BCM002",
         "Name": "ロールV2",
+        "Rarity": 4,
         "CodeList": [
           "R"
         ]
@@ -3944,6 +4386,7 @@
       {
         "ID": "BCM004",
         "Name": "ブルース",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "*"
@@ -3952,6 +4395,7 @@
       {
         "ID": "BCM005",
         "Name": "ブルースEX",
+        "Rarity": 4,
         "CodeList": [
           "B"
         ]
@@ -3959,6 +4403,7 @@
       {
         "ID": "BCM007G",
         "Name": "ヒートマン",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "*"
@@ -3967,6 +4412,7 @@
       {
         "ID": "BCM008G",
         "Name": "ヒートマンEX",
+        "Rarity": 4,
         "CodeList": [
           "H"
         ]
@@ -3974,6 +4420,7 @@
       {
         "ID": "BCM010G",
         "Name": "エレキマン",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "*"
@@ -3982,6 +4429,7 @@
       {
         "ID": "BCM011G",
         "Name": "エレキマンEX",
+        "Rarity": 4,
         "CodeList": [
           "E"
         ]
@@ -3989,6 +4437,7 @@
       {
         "ID": "BCM013G",
         "Name": "スラッシュマン",
+        "Rarity": 3,
         "CodeList": [
           "S",
           "*"
@@ -3997,6 +4446,7 @@
       {
         "ID": "BCM014G",
         "Name": "スラッシュマンEX",
+        "Rarity": 4,
         "CodeList": [
           "S"
         ]
@@ -4004,6 +4454,7 @@
       {
         "ID": "BCM016G",
         "Name": "キラーマン",
+        "Rarity": 3,
         "CodeList": [
           "K",
           "*"
@@ -4012,6 +4463,7 @@
       {
         "ID": "BCM017G",
         "Name": "キラーマンEX",
+        "Rarity": 4,
         "CodeList": [
           "K"
         ]
@@ -4019,6 +4471,7 @@
       {
         "ID": "BCM019G",
         "Name": "チャージマン",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "*"
@@ -4027,6 +4480,7 @@
       {
         "ID": "BCM020G",
         "Name": "チャージマンEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4034,6 +4488,7 @@
       {
         "ID": "BCM007F",
         "Name": "アクアマン",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "*"
@@ -4042,6 +4497,7 @@
       {
         "ID": "BCM008F",
         "Name": "アクアマンEX",
+        "Rarity": 4,
         "CodeList": [
           "A"
         ]
@@ -4049,6 +4505,7 @@
       {
         "ID": "BCM010F",
         "Name": "トマホークマン",
+        "Rarity": 3,
         "CodeList": [
           "T",
           "*"
@@ -4057,6 +4514,7 @@
       {
         "ID": "BCM011F",
         "Name": "トマホークマンEX",
+        "Rarity": 4,
         "CodeList": [
           "T"
         ]
@@ -4064,6 +4522,7 @@
       {
         "ID": "BCM013F",
         "Name": "テングマン",
+        "Rarity": 3,
         "CodeList": [
           "T",
           "*"
@@ -4072,6 +4531,7 @@
       {
         "ID": "BCM014F",
         "Name": "テングマンEX",
+        "Rarity": 4,
         "CodeList": [
           "T"
         ]
@@ -4079,6 +4539,7 @@
       {
         "ID": "BCM016F",
         "Name": "グランドマン",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "*"
@@ -4087,6 +4548,7 @@
       {
         "ID": "BCM017F",
         "Name": "グランドマンEX",
+        "Rarity": 4,
         "CodeList": [
           "G"
         ]
@@ -4094,6 +4556,7 @@
       {
         "ID": "BCM019F",
         "Name": "ダストマン",
+        "Rarity": 3,
         "CodeList": [
           "D",
           "*"
@@ -4102,6 +4565,7 @@
       {
         "ID": "BCM020F",
         "Name": "ダストマンEX",
+        "Rarity": 4,
         "CodeList": [
           "D"
         ]
@@ -4109,6 +4573,7 @@
       {
         "ID": "BCM022",
         "Name": "ブラストマン",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "*"
@@ -4117,6 +4582,7 @@
       {
         "ID": "BCM023",
         "Name": "ブラストマンEX",
+        "Rarity": 4,
         "CodeList": [
           "B"
         ]
@@ -4124,6 +4590,7 @@
       {
         "ID": "BCM025",
         "Name": "ダイブマン",
+        "Rarity": 3,
         "CodeList": [
           "D",
           "*"
@@ -4132,6 +4599,7 @@
       {
         "ID": "BCM026",
         "Name": "ダイブマンEX",
+        "Rarity": 4,
         "CodeList": [
           "D"
         ]
@@ -4139,6 +4607,7 @@
       {
         "ID": "BCM028",
         "Name": "サーカスマン",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "*"
@@ -4147,6 +4616,7 @@
       {
         "ID": "BCM029",
         "Name": "サーカスマンEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4154,6 +4624,7 @@
       {
         "ID": "BCM031",
         "Name": "ジャッジマン",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "*"
@@ -4162,6 +4633,7 @@
       {
         "ID": "BCM032",
         "Name": "ジャッジマンEX",
+        "Rarity": 4,
         "CodeList": [
           "J"
         ]
@@ -4169,6 +4641,7 @@
       {
         "ID": "BCM034",
         "Name": "エレメントマン",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "*"
@@ -4177,6 +4650,7 @@
       {
         "ID": "BCM035",
         "Name": "エレメントマンEX",
+        "Rarity": 4,
         "CodeList": [
           "E"
         ]
@@ -4184,6 +4658,7 @@
       {
         "ID": "BCM037",
         "Name": "カーネル",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "*"
@@ -4192,6 +4667,7 @@
       {
         "ID": "BCM038",
         "Name": "カーネルEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4214,6 +4690,7 @@
       {
         "ID": "BCS008",
         "Name": "スーパーバルカン",
+        "Rarity": 4,
         "CodeList": [
           "V"
         ]
@@ -4221,6 +4698,7 @@
       {
         "ID": "BCS017",
         "Name": "ガンデルソル3",
+        "Rarity": 4,
         "CodeList": [
           "N",
           "Q",
@@ -4230,6 +4708,7 @@
       {
         "ID": "BCS018",
         "Name": "ヨーヨー",
+        "Rarity": 3,
         "CodeList": [
           "L",
           "M",
@@ -4240,6 +4719,7 @@
       {
         "ID": "BCS054",
         "Name": "ノイズストーム",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "S",
@@ -4249,6 +4729,7 @@
       {
         "ID": "BCS069",
         "Name": "ポイズンシード",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "N",
@@ -4259,6 +4740,7 @@
       {
         "ID": "BCS082",
         "Name": "ネオバリアブル",
+        "Rarity": 4,
         "CodeList": [
           "N"
         ]
@@ -4266,6 +4748,7 @@
       {
         "ID": "BCS084",
         "Name": "ムラマサブレード",
+        "Rarity": 4,
         "CodeList": [
           "M"
         ]
@@ -4273,6 +4756,7 @@
       {
         "ID": "BCS087",
         "Name": "アサシンソード",
+        "Rarity": 3,
         "CodeList": [
           "N",
           "R",
@@ -4282,6 +4766,7 @@
       {
         "ID": "BCS099",
         "Name": "サンドワーム3",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "J",
@@ -4291,6 +4776,7 @@
       {
         "ID": "BCS104",
         "Name": "ナンバーボール",
+        "Rarity": 5,
         "CodeList": [
           "N"
         ]
@@ -4298,6 +4784,7 @@
       {
         "ID": "BCS111",
         "Name": "リュウセイグン",
+        "Rarity": 5,
         "CodeList": [
           "R"
         ]
@@ -4305,6 +4792,7 @@
       {
         "ID": "BCS115",
         "Name": "ブリザードボール",
+        "Rarity": 4,
         "CodeList": [
           "H",
           "N",
@@ -4314,6 +4802,7 @@
       {
         "ID": "BCS121",
         "Name": "メガブーメラン",
+        "Rarity": 4,
         "CodeList": [
           "I",
           "M",
@@ -4323,6 +4812,7 @@
       {
         "ID": "BCS126",
         "Name": "ウッドドラゴン",
+        "Rarity": 4,
         "CodeList": [
           "G",
           "T",
@@ -4332,6 +4822,7 @@
       {
         "ID": "BCS130",
         "Name": "ジャスティスワン",
+        "Rarity": 5,
         "CodeList": [
           "J"
         ]
@@ -4339,6 +4830,7 @@
       {
         "ID": "BCS133",
         "Name": "エアホイール3",
+        "Rarity": 4,
         "CodeList": [
           "N",
           "O",
@@ -4348,6 +4840,7 @@
       {
         "ID": "BCS147",
         "Name": "カウントボム3",
+        "Rarity": 4,
         "CodeList": [
           "L",
           "M",
@@ -4357,6 +4850,7 @@
       {
         "ID": "BCS154",
         "Name": "オジゾウサン",
+        "Rarity": 5,
         "CodeList": [
           "O"
         ]
@@ -4364,6 +4858,7 @@
       {
         "ID": "BCS155",
         "Name": "ポイズンアヌビス",
+        "Rarity": 5,
         "CodeList": [
           "P"
         ]
@@ -4371,6 +4866,7 @@
       {
         "ID": "BCS163",
         "Name": "リカバリー300",
+        "Rarity": 4,
         "CodeList": [
           "J",
           "O",
@@ -4380,6 +4876,7 @@
       {
         "ID": "BCS171",
         "Name": "サンクチュアリ",
+        "Rarity": 5,
         "CodeList": [
           "Z"
         ]
@@ -4387,6 +4884,7 @@
       {
         "ID": "BCS184",
         "Name": "ドリームオーラ",
+        "Rarity": 5,
         "CodeList": [
           "U"
         ]
@@ -4394,6 +4892,7 @@
       {
         "ID": "BCM001",
         "Name": "ロール",
+        "Rarity": 3,
         "CodeList": [
           "R",
           "*"
@@ -4402,6 +4901,7 @@
       {
         "ID": "BCM002",
         "Name": "ロールV2",
+        "Rarity": 4,
         "CodeList": [
           "R"
         ]
@@ -4409,6 +4909,7 @@
       {
         "ID": "BCM003",
         "Name": "ロールV3",
+        "Rarity": 5,
         "CodeList": [
           "R"
         ]
@@ -4416,6 +4917,7 @@
       {
         "ID": "BCM004",
         "Name": "ブルース",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "*"
@@ -4424,6 +4926,7 @@
       {
         "ID": "BCM005",
         "Name": "ブルースEX",
+        "Rarity": 4,
         "CodeList": [
           "B"
         ]
@@ -4431,6 +4934,7 @@
       {
         "ID": "BCM006",
         "Name": "ブルースSP",
+        "Rarity": 5,
         "CodeList": [
           "B"
         ]
@@ -4438,6 +4942,7 @@
       {
         "ID": "BCM007G",
         "Name": "ヒートマン",
+        "Rarity": 3,
         "CodeList": [
           "H",
           "*"
@@ -4446,6 +4951,7 @@
       {
         "ID": "BCM008G",
         "Name": "ヒートマンEX",
+        "Rarity": 4,
         "CodeList": [
           "H"
         ]
@@ -4453,6 +4959,7 @@
       {
         "ID": "BCM009G",
         "Name": "ヒートマンSP",
+        "Rarity": 5,
         "CodeList": [
           "H"
         ]
@@ -4460,6 +4967,7 @@
       {
         "ID": "BCM010G",
         "Name": "エレキマン",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "*"
@@ -4468,6 +4976,7 @@
       {
         "ID": "BCM011G",
         "Name": "エレキマンEX",
+        "Rarity": 4,
         "CodeList": [
           "E"
         ]
@@ -4475,6 +4984,7 @@
       {
         "ID": "BCM012G",
         "Name": "エレキマンSP",
+        "Rarity": 5,
         "CodeList": [
           "E"
         ]
@@ -4482,6 +4992,7 @@
       {
         "ID": "BCM013G",
         "Name": "スラッシュマン",
+        "Rarity": 3,
         "CodeList": [
           "S",
           "*"
@@ -4490,6 +5001,7 @@
       {
         "ID": "BCM014G",
         "Name": "スラッシュマンEX",
+        "Rarity": 4,
         "CodeList": [
           "S"
         ]
@@ -4497,6 +5009,7 @@
       {
         "ID": "BCM015G",
         "Name": "スラッシュマンSP",
+        "Rarity": 5,
         "CodeList": [
           "S"
         ]
@@ -4504,6 +5017,7 @@
       {
         "ID": "BCM016G",
         "Name": "キラーマン",
+        "Rarity": 3,
         "CodeList": [
           "K",
           "*"
@@ -4512,6 +5026,7 @@
       {
         "ID": "BCM017G",
         "Name": "キラーマンEX",
+        "Rarity": 4,
         "CodeList": [
           "K"
         ]
@@ -4519,6 +5034,7 @@
       {
         "ID": "BCM018G",
         "Name": "キラーマンSP",
+        "Rarity": 5,
         "CodeList": [
           "K"
         ]
@@ -4526,6 +5042,7 @@
       {
         "ID": "BCM019G",
         "Name": "チャージマン",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "*"
@@ -4534,6 +5051,7 @@
       {
         "ID": "BCM020G",
         "Name": "チャージマンEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4541,6 +5059,7 @@
       {
         "ID": "BCM021G",
         "Name": "チャージマンSP",
+        "Rarity": 5,
         "CodeList": [
           "C"
         ]
@@ -4548,6 +5067,7 @@
       {
         "ID": "BCM007F",
         "Name": "アクアマン",
+        "Rarity": 3,
         "CodeList": [
           "A",
           "*"
@@ -4556,6 +5076,7 @@
       {
         "ID": "BCM008F",
         "Name": "アクアマンEX",
+        "Rarity": 4,
         "CodeList": [
           "A"
         ]
@@ -4563,6 +5084,7 @@
       {
         "ID": "BCM009F",
         "Name": "アクアマンSP",
+        "Rarity": 5,
         "CodeList": [
           "A"
         ]
@@ -4570,6 +5092,7 @@
       {
         "ID": "BCM010F",
         "Name": "トマホークマン",
+        "Rarity": 3,
         "CodeList": [
           "T",
           "*"
@@ -4578,6 +5101,7 @@
       {
         "ID": "BCM011F",
         "Name": "トマホークマンEX",
+        "Rarity": 4,
         "CodeList": [
           "T"
         ]
@@ -4585,6 +5109,7 @@
       {
         "ID": "BCM012F",
         "Name": "トマホークマンSP",
+        "Rarity": 5,
         "CodeList": [
           "T"
         ]
@@ -4592,6 +5117,7 @@
       {
         "ID": "BCM013F",
         "Name": "テングマン",
+        "Rarity": 3,
         "CodeList": [
           "T",
           "*"
@@ -4600,6 +5126,7 @@
       {
         "ID": "BCM014F",
         "Name": "テングマンEX",
+        "Rarity": 4,
         "CodeList": [
           "T"
         ]
@@ -4607,6 +5134,7 @@
       {
         "ID": "BCM015F",
         "Name": "テングマンSP",
+        "Rarity": 5,
         "CodeList": [
           "T"
         ]
@@ -4614,6 +5142,7 @@
       {
         "ID": "BCM016F",
         "Name": "グランドマン",
+        "Rarity": 3,
         "CodeList": [
           "G",
           "*"
@@ -4622,6 +5151,7 @@
       {
         "ID": "BCM017F",
         "Name": "グランドマンEX",
+        "Rarity": 4,
         "CodeList": [
           "G"
         ]
@@ -4629,6 +5159,7 @@
       {
         "ID": "BCM018F",
         "Name": "グランドマンSP",
+        "Rarity": 5,
         "CodeList": [
           "G"
         ]
@@ -4636,6 +5167,7 @@
       {
         "ID": "BCM019F",
         "Name": "ダストマン",
+        "Rarity": 3,
         "CodeList": [
           "D",
           "*"
@@ -4644,6 +5176,7 @@
       {
         "ID": "BCM020F",
         "Name": "ダストマンEX",
+        "Rarity": 4,
         "CodeList": [
           "D"
         ]
@@ -4651,6 +5184,7 @@
       {
         "ID": "BCM021F",
         "Name": "ダストマンSP",
+        "Rarity": 5,
         "CodeList": [
           "D"
         ]
@@ -4658,6 +5192,7 @@
       {
         "ID": "BCM022",
         "Name": "ブラストマン",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "*"
@@ -4666,6 +5201,7 @@
       {
         "ID": "BCM023",
         "Name": "ブラストマンEX",
+        "Rarity": 4,
         "CodeList": [
           "B"
         ]
@@ -4673,6 +5209,7 @@
       {
         "ID": "BCM024",
         "Name": "ブラストマンSP",
+        "Rarity": 5,
         "CodeList": [
           "B"
         ]
@@ -4680,6 +5217,7 @@
       {
         "ID": "BCM025",
         "Name": "ダイブマン",
+        "Rarity": 3,
         "CodeList": [
           "D",
           "*"
@@ -4688,6 +5226,7 @@
       {
         "ID": "BCM026",
         "Name": "ダイブマンEX",
+        "Rarity": 4,
         "CodeList": [
           "D"
         ]
@@ -4695,6 +5234,7 @@
       {
         "ID": "BCM027",
         "Name": "ダイブマンSP",
+        "Rarity": 5,
         "CodeList": [
           "D"
         ]
@@ -4702,6 +5242,7 @@
       {
         "ID": "BCM028",
         "Name": "サーカスマン",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "*"
@@ -4710,6 +5251,7 @@
       {
         "ID": "BCM029",
         "Name": "サーカスマンEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4717,6 +5259,7 @@
       {
         "ID": "BCM030",
         "Name": "サーカスマンSP",
+        "Rarity": 5,
         "CodeList": [
           "C"
         ]
@@ -4724,6 +5267,7 @@
       {
         "ID": "BCM031",
         "Name": "ジャッジマン",
+        "Rarity": 3,
         "CodeList": [
           "J",
           "*"
@@ -4732,6 +5276,7 @@
       {
         "ID": "BCM032",
         "Name": "ジャッジマンEX",
+        "Rarity": 4,
         "CodeList": [
           "J"
         ]
@@ -4739,6 +5284,7 @@
       {
         "ID": "BCM033",
         "Name": "ジャッジマンSP",
+        "Rarity": 5,
         "CodeList": [
           "J"
         ]
@@ -4746,6 +5292,7 @@
       {
         "ID": "BCM034",
         "Name": "エレメントマン",
+        "Rarity": 3,
         "CodeList": [
           "E",
           "*"
@@ -4754,6 +5301,7 @@
       {
         "ID": "BCM035",
         "Name": "エレメントマンEX",
+        "Rarity": 4,
         "CodeList": [
           "E"
         ]
@@ -4761,6 +5309,7 @@
       {
         "ID": "BCM036",
         "Name": "エレメントマンSP",
+        "Rarity": 5,
         "CodeList": [
           "E"
         ]
@@ -4768,6 +5317,7 @@
       {
         "ID": "BCM037",
         "Name": "カーネル",
+        "Rarity": 3,
         "CodeList": [
           "C",
           "*"
@@ -4776,6 +5326,7 @@
       {
         "ID": "BCM038",
         "Name": "カーネルEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4783,6 +5334,7 @@
       {
         "ID": "BCM039",
         "Name": "カーネルSP",
+        "Rarity": 5,
         "CodeList": [
           "C"
         ]
@@ -4805,6 +5357,7 @@
       {
         "ID": "BCS015",
         "Name": "ガンデルソル1",
+        "Rarity": 2,
         "CodeList": [
           "C",
           "M",
@@ -4815,6 +5368,7 @@
       {
         "ID": "BCS016",
         "Name": "ガンデルソル2",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "E",
@@ -4824,6 +5378,7 @@
       {
         "ID": "BCM004",
         "Name": "ブルース",
+        "Rarity": 3,
         "CodeList": [
           "B"
         ]
@@ -4831,6 +5386,7 @@
       {
         "ID": "BCM037",
         "Name": "カーネル",
+        "Rarity": 3,
         "CodeList": [
           "C"
         ]
@@ -4838,6 +5394,7 @@
       {
         "ID": "BCM041",
         "Name": "ハクシャクEX",
+        "Rarity": 4,
         "CodeList": [
           "H"
         ]
@@ -4845,6 +5402,7 @@
       {
         "ID": "BCM043",
         "Name": "ジャンゴ",
+        "Rarity": 3,
         "CodeList": [
           "D"
         ]
@@ -4867,6 +5425,7 @@
       {
         "ID": "BCS016",
         "Name": "ガンデルソル2",
+        "Rarity": 3,
         "CodeList": [
           "B",
           "E",
@@ -4876,6 +5435,7 @@
       {
         "ID": "BCS017",
         "Name": "ガンデルソル3",
+        "Rarity": 4,
         "CodeList": [
           "N",
           "Q",
@@ -4885,6 +5445,7 @@
       {
         "ID": "BCM005",
         "Name": "ブルースEX",
+        "Rarity": 4,
         "CodeList": [
           "B"
         ]
@@ -4892,6 +5453,7 @@
       {
         "ID": "BCM038",
         "Name": "カーネルEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4899,6 +5461,7 @@
       {
         "ID": "BCM040",
         "Name": "ハクシャク",
+        "Rarity": 3,
         "CodeList": [
           "H"
         ]
@@ -4906,6 +5469,7 @@
       {
         "ID": "BCM041",
         "Name": "ハクシャクEX",
+        "Rarity": 4,
         "CodeList": [
           "H"
         ]
@@ -4913,6 +5477,7 @@
       {
         "ID": "BCM043",
         "Name": "ジャンゴ",
+        "Rarity": 3,
         "CodeList": [
           "D"
         ]
@@ -4920,6 +5485,7 @@
       {
         "ID": "BCM044",
         "Name": "ジャンゴV2",
+        "Rarity": 4,
         "CodeList": [
           "D"
         ]
@@ -4942,6 +5508,7 @@
       {
         "ID": "BCS017",
         "Name": "ガンデルソル3",
+        "Rarity": 4,
         "CodeList": [
           "N",
           "Q",
@@ -4951,6 +5518,7 @@
       {
         "ID": "BCM005",
         "Name": "ブルースEX",
+        "Rarity": 4,
         "CodeList": [
           "B"
         ]
@@ -4958,6 +5526,7 @@
       {
         "ID": "BCM038",
         "Name": "カーネルEX",
+        "Rarity": 4,
         "CodeList": [
           "C"
         ]
@@ -4965,6 +5534,7 @@
       {
         "ID": "BCM041",
         "Name": "ハクシャクEX",
+        "Rarity": 4,
         "CodeList": [
           "H"
         ]
@@ -4972,6 +5542,7 @@
       {
         "ID": "BCM042",
         "Name": "ハクシャクSP",
+        "Rarity": 5,
         "CodeList": [
           "H"
         ]
@@ -4979,6 +5550,7 @@
       {
         "ID": "BCM044",
         "Name": "ジャンゴV2",
+        "Rarity": 4,
         "CodeList": [
           "D"
         ]
@@ -4986,6 +5558,7 @@
       {
         "ID": "BCM045",
         "Name": "ジャンゴV3",
+        "Rarity": 5,
         "CodeList": [
           "D"
         ]
@@ -4993,6 +5566,7 @@
       {
         "ID": "BCX001",
         "Name": "ガンデルソルEX",
+        "Rarity": 5,
         "CodeList": [
           "G"
         ]
@@ -5015,6 +5589,7 @@
       {
         "ID": "BCS017",
         "Name": "ガンデルソル3",
+        "Rarity": 4,
         "CodeList": [
           "N",
           "Q",
@@ -5024,6 +5599,7 @@
       {
         "ID": "BCM006",
         "Name": "ブルースSP",
+        "Rarity": 5,
         "CodeList": [
           "B"
         ]
@@ -5031,6 +5607,7 @@
       {
         "ID": "BCM039",
         "Name": "カーネルSP",
+        "Rarity": 5,
         "CodeList": [
           "C"
         ]
@@ -5038,6 +5615,7 @@
       {
         "ID": "BCM041",
         "Name": "ハクシャクEX",
+        "Rarity": 4,
         "CodeList": [
           "H"
         ]
@@ -5045,6 +5623,7 @@
       {
         "ID": "BCM042",
         "Name": "ハクシャクSP",
+        "Rarity": 5,
         "CodeList": [
           "H"
         ]
@@ -5052,6 +5631,7 @@
       {
         "ID": "BCM045",
         "Name": "ジャンゴV3",
+        "Rarity": 5,
         "CodeList": [
           "D"
         ]
@@ -5059,6 +5639,7 @@
       {
         "ID": "BCX001",
         "Name": "ガンデルソルEX",
+        "Rarity": 5,
         "CodeList": [
           "G"
         ]
@@ -5066,6 +5647,7 @@
       {
         "ID": "BCX002",
         "Name": "オテンコサマ",
+        "Rarity": 5,
         "CodeList": [
           "O"
         ]
